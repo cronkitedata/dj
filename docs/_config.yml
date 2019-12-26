@@ -1,0 +1,135 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title                         :   "Data Reporting @ Cronkite"
+title_separator               : "-"
+#email:
+description: >- # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+
+baseurl                      : "/mco510"
+url                          : "https://cronkitedata.github.io"
+repository                   : "cronkitedata/mco510"
+twitter_username             : sarahcnyt
+github_username              : sarahcnyt
+minimal_mistakes_skin        : "air"
+search                       : true
+
+## custom variables for me -- test !
+cdocs                        : "https://cronkitedata.github.io/cronkite-docs"
+
+# Build settings
+markdown                     : kramdown
+remote_theme                 : mmistakes/minimal-mistakes@4.17.2
+# Outputting
+permalink                    : /:categories/:title/
+paginate                     : 10 # amount of posts to show
+paginate_path                : /page:num/
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+include:
+  - _pages
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+# Site Author
+author:
+  name             : "Sarah Cohen"
+  avatar           : "/assets/images/scpicture2.jpg"
+  bio              : "Knight Chair in Data Journalism at the Walter Cronkite School of Journalism. I'm an alum of The Washington Post and The New York Times data reporting teams"
+  location         : "Phoenix, Ariz."
+  email            : "sarah.h.cohen@asu.edu"
+  uri              : "https://cronkite.asu.edu/about/faculty-and-leadership/faculty/cohenbio"
+  home             : "https://cronkite.asu.edu/about/faculty-and-leadership/faculty/cohenbio"
+  github           :  "sarahcnyt"
+  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
+  twitter          : "sarahcnyt"
+  youtube          : "https://www.youtube.com/channel/UCjQvhsNMw872Zjyv8aErzmw"
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      read_time: false
+      layout: single
+      sidebar:
+        nav: "docs"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: single
+      sidebar:
+          nav: "docs"
+  - scope:
+      path: "_weeks"
+      type: "weeks"
+    values:
+      layout: single
+      author_profile: false
+      sidebar:
+         nav: "docs"
+  - scope:
+       path: "_assignments"
+       type: "pages"
+    values:
+       layout: single
+       sidebar:
+           nav: "docs"
+       author_profile: false
+       classes: wide
+       toc: false
+
+# Collections
+collections:
+  weeks:
+    output: true
+    permalink: /:collection/:path/
+  assignments:
+    output: true
+    permalink: /:collection/:path/
+
+
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/

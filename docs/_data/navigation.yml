@@ -1,0 +1,29 @@
+# main links
+main:
+  - title: "About"
+    url: /about
+  - title: "Syllabus"
+    url: /syllabus
+  - title: "Schedule"
+    url: /schedule
+  - title: "Assignments"
+    url: /assignments
+
+# sidebar navigation list sample
+docs:
+  - title: "Syllabus"
+    url: /syllabus
+  - title: "Schedule"
+    url: /schedule
+  - title: "Weekly details"
+    url: /weeks/
+  - title: "Daily assignments"
+    url: "/assignments/"
+  - title: "Project-ish"
+    children:
+      - title: "Story idea"
+        url: /story-idea
+      - title: "Explainer"
+        url: /explainer
+      - title: "Story memo / data analysis project"
+        url: /story-memo
