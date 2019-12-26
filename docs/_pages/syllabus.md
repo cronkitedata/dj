@@ -30,7 +30,7 @@ Course website: [https://cronkitedata.github.io/mco510/](https://cronkitedata.gi
 
 ## Description
 
-This is a class in data journalism focused the systematic use of public records, documents and other material in public affairs reporting.
+This is a class in data journalism focused the systematic use of public records, documents and other material in public affairs reporting. We're calling it "empirical journalism".
 Previous generations might have called it “computer-assisted reporting” or “precision journalism”. Whatever the name, the idea is the same: original reporting and analysis in the service of stories, particularly in the accountability and explanatory genres.
 
 Analyzing records can help you confirm or disprove a tip, isolate anecdotes, and explore stories or patterns that no one has thought to mention.
@@ -39,7 +39,7 @@ Using data-driven techniques, your street reporting will become deeper and more 
 By the end of the semester, you should be able to:
 
 * Identify how and when analysis of electronic records might strengthen your story, provide important insights, or suggest new lines of reporting.
-* Apply tools as Excel and the R programming language for reporting in efficient, effective and ethical ways that avoid errors.
+* Apply tools such as Excel and the R programming language for reporting in efficient, effective and ethical ways that avoid errors.
 * Integrate data journalism techniques with traditional reporting methods.
 * Identify skills you want to learn in the future and become adept at jumping into new technologies in service to your journalism.
 
@@ -47,17 +47,17 @@ By the end of the semester, you should be able to:
 
 ### Required materials and texts
 
-There is a custom course textbook of sorts on this website. No other texts are required.
+There are no requried texts for this class. Most of the course materials are linked here. The full site of resources is at [https://cronkitedata.github.io/cronkite-docs](https://cronkitedata.github.io/cronkite-docs])
 
 You should use your official ASU email for all work in this class, and check it regularly. Other materials include:
 
 * An ASU Slack account, which is automatically created for you in the course. This will be our primary method of communication.
 
-* All of the required software is either free and web-based, or is loaded on the computers in our lab. You are also welcome to install it on your own computers. Be sure to have Microsoft Excel installed on  your own computer on the first day if you plan to use it.  We'll also be using R, R Studio and OpenRefine.
+* A free copy of Microsoft Excel available in myapps.asu.edu and free software including R, R Studio and OpenRefine. You are not required to have your own computer. All of these are installed on the lab computers and you can also use a free account at RStudio.cloud to use a web-based version of that software.
 
 #### Recommended
 
-* Student membership in [Investigative Reporters and Editors](http://ire.org/join) $25. This will help with tip sheets and a story archive including questionnaires filled out by the reporters.
+* A $25 Student membership in [Investigative Reporters and Editors](http://ire.org/join). This will help with tip sheets and a story archive including questionnaires filled out by the reporters. You will get to keep this rate for two years after you graduate.
 
 * "[Numbers in the Newsroom]((https://store.ire.org/collections/frontpage/products/numbers-in-the-newsroom-using-math-and-statistics-in-news-second-edition-e-version))", by Sarah Cohen, available through IRE.  $10.00 . There is a free pdf of the book on the Canvas site.
 
@@ -65,7 +65,7 @@ You should use your official ASU email for all work in this class, and check it 
 
 ## Grading
 
-This course will use a point system, adding up to 1000 points for the semester.
+This course will use a point system adding up to 1000 points for the semester.
 
 * Daily work: 500 points.
 * Exams (Excel & R) : 200 points
@@ -89,7 +89,7 @@ Doing well in this class means working slowly, methodically and consistently. In
 
 Daily work is made up of several distinct elements:
 
-* Labs and homework, which will be simply noted as "Complete" or "Incomplete". A complete assignment is one that is turned in on time and at an acceptable level of quality, accuracy and completeness. (40%)
+* Labs and homework, which will be simply noted as "Complete" or "Incomplete". A complete assignment is one that is turned in on time at an acceptable level of quality, accuracy and completeness. (40%)
 
 * Preparation for class, including attention to the reading and viewing and practicing on your own. (25%)
 
@@ -97,36 +97,31 @@ Daily work is made up of several distinct elements:
 
 * Teamwork, initiative, engagement, and attention to editorial direction. Offer your superpowers to the group and pay attention to suggestions to take your work to the next level. (10%)
 
-There are **three self-assessment assignments** in Canvas. In each of these assessments, you'll tell me how well you think you're doing on each of these elements, and give yourself a preliminary grade. Please arrange for a short visit with me within a day or two of turning in a self-assessment. I'll provide the grade for that portion of the daily work after we meet.
+There are **three self-assessment assignments** in Canvas. In each of these assessments, you'll tell me how well you think you're doing on each of these elements and suggest a grade. Please arrange for a short visit with me within a day or two of turning in a self-assessment. I'll provide the grade for that portion of the daily work after we meet.
 
-In Cronkite News, you get no credit for that whole part of the semester if you miss the self-assessment deadline. I'm not going to be that strict -- if you choose not to turn it in on time, I may not pay any attention to it when I assign the grade for that portions of the class. You also won't get the advantage of getting one-on-one feedback on your work. This is done for your benefit. Take advantage of it.
+In Cronkite News, you get no credit for that whole part of the semester if you miss the self-assessment deadline. I'm not going to be that strict -- if you choose not to turn it in on time, I'll assign the grade without your input. You also won't get one-on-one feedback on your work. This is done for your benefit. Take advantage of it.
 
 These grades will be averaged based on the number of weeks they represent. I reserve the right to raise the final number of points in this area if I determine that you have shown steady and significant improvement over the course of the semester.
 
-
-
-### Story memo (150)
-
+### Story memo (150) [details]({{ "story-memo" | relative_url}})
 
 You will have a choice of several data sets that could be used in stories. Your memo will involve analyzing the data, identifying a potential story, and writing a story pitch complete with anecdotes and a reporting plan.
 
-If you have a dataset that you think might make a good candidate for this project, please let me know by the end of January.
+If you know of a dataset that you might prefer to use for this project, please let me know by the end of January and I'll consider it. I want to make sure it's a good fit for the project's goals.
 
 ### Exams (200)
 
-There will be two in-class tests - one using Excel and the other in R. These will be open-book, open-Internet tests that start during class and will be due at midnight that night.
-
+There will be two in-class tests - one using Excel and the other in R. These will be open-book, open-Internet tests that start during class and will be due 24 hours after it begins. If you keep up with the work, these are not difficult exams. Many people finish them before class ends.
 
 ### Mini-projects (150)
 
 **1 - Data walk (50)**:
-This is an exercise done in groups at the end of the semester, but you should be thinking of it as you move through the course. Together, you will create a small database of items that you can collect by walking around. Examples include plants, garbage, construction sites, clothing, types of shops or bars or anything else that can be catalogued. By the end of the semester, you'll understand why this is harder than it sounds!
+This is an exercise done in groups at the end of the semester, but you should be thinking of it as you move through the course. Together, you will design and create a small dataset of items that you collect by walking around. Examples include plants, garbage, construction sites, clothing, types of shops or bars or anything else that can be catalogued. By the end of the semester, you'll understand why this is harder than it sounds!
 
 **2 - Data hunt story idea (50)**:
-This assignment will involve coming up with a story idea, then looking for some data sources that might inform it. You'll turn in a short story proposal that includes the idea, along with what records you would use to document it. This data could be something you plan to collect on your own from documents or interviews; databases already published on the Web or readily available; or datasets you would have to obtain under public records laws. The only requirement is that you should know whether you have a right to those records under FOIA or public records law, or how you would obtain them if you don't.
+This assignment will involve coming up with a story idea, then looking for some data sources that might inform it. You'll turn in a short story proposal that includes the idea, along with what records you would use to document it. This data could be something you plan to collect on your own from documents or interviews; databases already published on the Web or readily available; or datasets you would have to obtain under public records laws. The only requirement is that you should know how you will obtain the records and whether you have a right to them under the relavent public records law. Take this opportunity to do some leg work on a story you'd like to do in the future.
 
-**3 - Explainer (50)**: At some point over the semester, choose one thing you found interesting and create an explainer on it. The topic can be anything related to the course -- a dataset you wanted to explore some more, a technique in Excel or R, or some problem you had to overcome that might happen to others. The medium is also flexible -- you might choose an R Markdown walkthrough or a video, for example. This is short and targeted -- a video tutorial of no more than 5 minutes, or a document of no more than about 3 pages. I understand you might want to see all of the material we cover before you decide on one so the drop-dead deadline for this is during the scheduled final exam.
-
+**3 - Explainer (50)**: At some point over the semester, choose one thing you found interesting and create an explainer on it. The topic can be anything related to the course -- a technique in Excel or R, some problem you had to overcome during the class, or an intriguing dataset that we didn't explore. The medium is also flexible -- you might choose an R Markdown walkthrough or a video, for example. This is short and targeted -- a video tutorial of no more than 5 minutes, or a document of no more than about 3 pages. This is due anytime during the semester, but I suggest doing it as soon as you stumble on something that interests you, while it's still fresh in your mind.
 
 ## Course policies
 
@@ -147,7 +142,7 @@ The preliminary schedule for this class is aggressive. Please speak up if we're 
 
 ### Attendance and deadlines
 
-There are no excused absences or late assignments, with the exception of a true emergency or religious observance. We all make decisions about how we spend our time. You might decide it’s more important to schedule a job interview, go on a trip, or drive across the state to interview a source than to attend class or complete your work. If I were you, I might decide the same thing, but these are choices that reflect your priorities. They’re not emergencies, nor are they excused absences or missed deadlines.
+There are no excused absences or late assignments, with the exception of a true emergency or religious observance. We all make decisions about how we spend our time. You might decide it’s more important to schedule a job interview, go on a trip, or drive across the state to interview a source than to attend class or complete your work. If I were you, I might decide the same thing, but these are choices that reflect your priorities. They’re not emergencies, nor are they excused absences or deadlines.
 
 That said, we all have illnesses or other issues that interfere with our commitments. You may miss one class and one daily deadline with no questions asked, but you should make up the work in a timely manner. If you miss more than two classes for any reason, your grade will drop by two steps (eg, from an A to a B+).
 
@@ -177,8 +172,8 @@ I don’t expect your work to be polished and exact. However, work that shows a 
 </p>
 
 <ul>
-  <li> Slow down! Unlike the rest of journalism, going faster doesn't help. Take little bites of the problem at a time, separate them into their pieces and try to solve a problem one step at a time. </li>
-  <li> If you've been working on something for more than 20 minutes <b>without making any progress</b>, don't waste more time on it. That's not the same thing as only making a little progress. But if you're really stuck, get help. The preferred method is to post a question in the Slack #sos channel, where everyone can learn from your question. If you're stuck, there's a good chance others are as well. </li>
+  <li> Slow down! Unlike the rest of journalism, going faster doesn't help. Take little bites of the problem at a time, separate them into their pieces and try to solve a problem step by step. </li>
+  <li> If you've been working on something for more than 20 minutes <b>without making any progress</b>, don't waste more time on it. If you're making just a little progress, keep going. But get help if you're really stuck. The preferred method is to post a question in the Slack #sos channel, where everyone can learn from your question. If you're stuck, there's a good chance others are as well (or they will be). </li>
   <li> Remember the goal: We're not out to become social scientists, computer programmers or even data analysts. We're journalists. Simplify your questions, focusing on newsworthiness rather than academic research. </li>
   <li> Practice on something you're working on outside of school or for another class. </li>
 </ul>
@@ -194,10 +189,6 @@ All work submitted under your name must be your work and your work alone. When y
 ### Extra Credit
 
 Simple. There is none. Why? This course is made up of a lot of little pieces. They can't be replaced by attending a lecture.
-
-### Need more challenge?
-
-Occasionally, you will already have mastered the material covered in this class. Instead of sitting through something boring, I expect you to find a way to make the time productive. You can help other students, take on a more difficult assignment, or extend beyond the assignment in some other way.
 
 <p  style="page-break-after: always;"></p>
 
@@ -229,6 +220,10 @@ In technical work, asking a good question is an art. Generally, make sure you :
 * Describe what you are trying to do -- what does success look like?
 * Provide a snippet of the code or the Excel formula that you're trying
 * Take a screen shot or quote the error message if there is one
+
+### Q: I already know how to code. Why do I have to take this class?
+
+There's a snotty, mean answer and a real answer. The rude answer is that you probably already knew how to use a telephone or take pictures before you came to Cronkite, but you're here to hone those skills for journalism. The same thing holds here. The real answer is: Come talk with me. We'll find ways to make the time productive and take you to the next level in data reporting. Another real answer is: Relax and spend your time applying your skills to journalism and helping others.
 
 <p  style="page-break-after: always;"></p>
 ## Cronkite policies

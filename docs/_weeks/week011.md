@@ -1,8 +1,8 @@
 ---
-title: "01 - Intros & reboots"
+title: "1.1 - Intros & reboots"
 toc: true
 layout: single
-excerpt: "Introductions and data journalism overview."
+excerpt: "Introductions to each other and to re-introducing yourself to Excel."
 collection: weeks
 #classes: wide
 class_date: 2020-01-14

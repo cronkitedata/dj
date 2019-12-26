@@ -1,5 +1,5 @@
 ---
-title: "02 - Data types, and a letter to your future self"
+title: "1.2 - Data types, and a letter to your future self"
 layout: single
 excerpt: "Ethics and accuracy; the data diary and speeding cops"
 collection: weeks
@@ -10,16 +10,18 @@ class_date: 2020-01-14
 
 > Write a letter to your future self so it doesn't hate your present self.
 
-## Assignments due this week
+## Assignments due:
 
-Sunday, Jan. 19: Finding stories in Arizona Census data: [exercise]() \| [data](), with data diary.
+Sunday, Jan. 19: Finding stories in Arizona Census data: [exercise]() \| [data](), with data diary, on Canvas.
 
 ## In class
 
-* Ethics and accuracy in data journalism
+* Ethics and accuracy in data journalism part one
 * Introducing the data diary
 * Understanding data types: numbers, dates and text
-* Lab: Calculating speeds from dates and times using 10,000 of the Sun-Sentinel's 72,000 records ([data file]() \| [source](http://databases.sun-sentinel.com/news/broward/ftlaudCopSpeeds/ftlaudCopSpeeds_list.php) )
+* Lab: Calculating speeds from dates and times using 25,000 of the Sun-Sentinel's 72,000 records ([data file]({{site.cdocs}}/assets/data/xlexamples/cops-transponders.xlsx) \| [source](http://databases.sun-sentinel.com/news/broward/ftlaudCopSpeeds/ftlaudCopSpeeds_list.php) )
+
+Keep a copy of this dataset when we're done -- we're going to come back to it next week.
 
 ## Preparation
 

@@ -1,13 +1,14 @@
 ---
 title: "Week 7: Public records sprint"
-toc: true
 layout: single
 excerpt: "Most of the week is a public records sprint, but we'll also cover getting data out of pdf documents"
-date: 2018-09-20
-collection: weeks
-sidebar:
-   nav: docs
+date: 2020-08-20
+categories:
+   - future
 ---
+
+NOTE: This shouldn't show up in our site for the grad project. It is only for the fall semester.  Check links when I use this again.
+{: .notice--warning}
 
 This week we'll concentrate most of your work on public records and your projects, but add in some demonstrations of one of data journalism's most difficult and frustrating elements: extracting something of use from documents you get in PDF form. You don't have exercises, but you do have some substantial reading.
 
@@ -31,7 +32,7 @@ I suggest changing the order of the chapters to more closely represent the chron
 * [Q&A: The Story Behind the Post's Investigation on Guns](http://ajr.org/2014/01/13/chasing-truth-guns/), with David Fallis of the Washington post, American Journalism Review, Jan. 13, 2014.
 
 ### Arizona public records
-* [Arizona Ombudsman's guide to public records](http://www.azoca.gov/open-meeting-and-public-records-law/overview/) Pay attention to specific references to journalists, costs, and the form of the records.  
+* [Arizona Ombudsman's guide to public records](http://www.azoca.gov/open-meeting-and-public-records-law/overview/) Pay attention to specific references to journalists, costs, and the form of the records.
 
 * Read the FAQ and browse the Arizona Republic's [azpublicinfo.com](http://azpublicinfo.com/). From its home page, use the search or browse function to find some agencies that might relate to your topic.  Read the FAQ.
 
@@ -60,7 +61,7 @@ Some reporters call initial research on projects "[reporting from the outside in
 ## Thursday
 
 * A quick demo of typical formats found in data -- you've seen Excel, but you should understand API's, json, xml, csv and their cousins. Next week will come the dreaded PDF format.
-* In your teams, write and submit the first memo for the public records request.  
+* In your teams, write and submit the first memo for the public records request.
 
 
 

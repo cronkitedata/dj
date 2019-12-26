@@ -1,5 +1,5 @@
 ---
-title: "03 - Filtering and sorting in Excel"
+title: "2.1 - Filtering and sorting in Excel"
 toc: true
 layout: single
 excerpt: "Thinking like a data journalist; filtering and sorting in Excel"
@@ -13,7 +13,6 @@ class_date: 2020-01-21
 ## In class
 * Homework review: Finding stories in data
 * Filter and sort
-* Introduction to tidy data
 * Lab: Filter and sort (data tk)
 
 ## Preparation
@@ -23,7 +22,7 @@ class_date: 2020-01-21
 * "[Demystifying Data Journalism](https://www.youtube.com/watch?v=P_nj0r_A0co)," Mashable Media Summit with Susan McGregor and Sarah Cohen, December 2012.
 
 ### Tutorials
-* Look through the [filter and sort tutorial]({{site.cdocs}}/excel/xlguides/xl-filtersort) and read the accompanying story "[Police Chiefs, Looking to Diversify Forces, Face Structural Hurdles](https://www.nytimes.com/2015/11/08/us/politics/police-chiefs-looking-to-diversify-forces-face-structural-hurdles.html)," Matt Apuzzo and Sarah Cohen, Nov. 2015, The New York Times. We'll go through sorting and filtering in class. (If you really want it, here is a [copy of an early version of the spreadsheet]({{site.cdocs}}/assets/data/xlexamples/lemas2012_proportions.xlsx) we used to get to this story -- don't feel obliged to look at it.)
+* Look through the [filter and sort tutorial]({{site.cdocs}}/excel/xlguides/xl-filtersort) and read the accompanying story "[Police Chiefs, Looking to Diversify Forces, Face Structural Hurdles](https://www.nytimes.com/2015/11/08/us/politics/police-chiefs-looking-to-diversify-forces-face-structural-hurdles.html)," Matt Apuzzo and Sarah Cohen, Nov. 2015, The New York Times. (If you really want it, here is a [an early version of the spreadsheet]({{site.cdocs}}/assets/data/xlexamples/lemas2012_proportions.xlsx) we used to get to this story -- don't feel obliged to look at it.)
 
 
 

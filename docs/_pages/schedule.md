@@ -44,14 +44,14 @@ When a deadline is shown for a class day, it means it's due before class starts.
 
 Week<br>num | Date| Topics | Deadlines
 --- | ----------- | ---- | ---
-01 | [Jan. 14]({{ "weeks/week011" | relative_url}}) | Intros & overview; Excel reboot; | Tu: Survey
+01 | [Jan. 14]({{ "weeks/week011" | relative_url}}) | Intros & overview; Excel reboot; | Tu: [Survey](https://forms.gle/JKeTkXzCE7zUqFDG6) <br> Fr: Integrity pledge
  | [Jan. 16]({{ "weeks/week012" | relative_url}}) | Ethics and data diaries; data types |
-02 | Jan. 21  | Excel filter & sort |  Tu: Academic integrity pledge
- | Jan. 23 | Pivot tables |
-03 | Jan. 28 | Understanding tidy data; review |
-  | Jan. 30 | Excel review |
+02 | [Jan. 21]({{"weeks/week021" | relative_url}})  | Excel filter & sort |
+ | [Jan. 23]({{ "weeks/week022" | relative_url }}) | Pivot tables |
+03 | [Jan. 28]({{ "weeks/week031" | relative_url }}) | Understanding tidy data; Reading the data story |
+  | Jan. 30 | Excel review | Bring questions to class
 04 | Feb. 4 | **Excel exam** |
- | Feb. 6 | Cleaning data with Open Refine | Su. Feb. 9: 1st self-assessment
+ | Feb. 6 | Cleaning data with Open Refine | Su. 2/9: 1st self-assessment
 05 | Feb. 11 | Intro to R markdown & programming |
   | Feb. 13 | R for journalists: the tidyverse and its verbs |
 06 | Feb. 18 | Replicating your Excel work in R: Filter and sort |

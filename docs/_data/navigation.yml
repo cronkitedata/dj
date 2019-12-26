@@ -19,11 +19,13 @@ docs:
     url: /weeks/
   - title: "Daily assignments"
     url: "/assignments/"
+  - title: "Story memo"
+    url: /story-memo
   - title: "Project-ish"
     children:
-      - title: "Story idea"
+      - title: "Data hunt"
         url: /story-idea
       - title: "Explainer"
         url: /explainer
-      - title: "Story memo / data analysis project"
-        url: /story-memo
+      - title: "Data walk"
+        url: /data-walk

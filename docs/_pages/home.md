@@ -1,7 +1,7 @@
 ---
 layout: category
 taxonomy: announcements
-title: Data Journalism @ Cronkite
+title: ''
 permalink: /
 sidebar:
    nav: "docs"
