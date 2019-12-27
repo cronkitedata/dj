@@ -24,4 +24,4 @@ We could spend the rest of the semester becoming Excel nerds, but this week mark
 
 Follow along with it, and see if you can recreate the end result:
 
-![final pivot]({{site.baseurl}}/weeks/assets/week04-finalpivot.png)
+![final pivot]({{site.baseurl}}/assets/images/05-xlpivot-salaries.png)

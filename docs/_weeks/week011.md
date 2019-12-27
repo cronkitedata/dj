@@ -33,7 +33,7 @@ I'll use this structure to lay out the outline for each week, key deadlines and 
 
 * [Read the syllabus in its entirety]({{"syllabus" | relative_url}}) and review the list of topics in the [schedule]({{ "schedule" | relative_url}}) a review of the topics listed by week.
 
-* Look through the [Excel refresher]({{site.cdocs}}/excel/xlguides/xl-refresher) tutorial. I've found that almost everyone has used Excel or Google Sheets at least a little.  We'll start where this tutorial leaves off. You're not expected to come in with anything more.
+* Look through the [Excel refresher]({{site.cdocs}}/excel/xlguides/xl-refresher) tutorial. I've found that almost everyone has used Excel or Google Sheets at least a little.  We'll start where this tutorial leaves off. You're not expected to come in with anything more. If you prefer videos, Mary Jo Webster of the Minneapolis Star Tribune has an old Windows-based [video getting you started on the Nicar-Learn site](https://learn.ire.org/projects/getting-started-with-microsoft-excel/). It usually requires payment, but this video seems to be free.
 
 * Review the boot camp sessions we did in the fall:
 

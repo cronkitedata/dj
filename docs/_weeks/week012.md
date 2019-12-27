@@ -41,3 +41,7 @@ We'll be revisiting accuracy and bulletproofing your work later in the semester,
 * [Replication and the data diary]({{site.cdocs}}/general/04-data-diary)
     * An [example data diary](https://docs.google.com/document/d/1EzjZYKmr8u5QIIDEmVKCtyzlzie06VMyFRa2RRqmiT0/edit?usp=sharing). (I updated some of the links, but the data description is actually from 2017)
     * An [example data diary]({{site.cdocs}}/assets/docs/xl-mathreview-datadiary) from the budget exercise that goes through what was done before you got it.
+
+OPTIONAL:
+
+Slides from the 2017 NICAR conference on [ethics in data journalism](https://docs.google.com/presentation/d/1fuGLuCeU84pk1u-ByncKAr-YUC9-0itlYuHf-dUiMY4/), Mary Jo Webster (Minneapolis Star Tribune) and Tom McGinty (Wall Street Journal). Much of this is about accuracy and context, but there are good items on scraping and terms of service, which are important to us.
