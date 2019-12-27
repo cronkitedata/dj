@@ -1,6 +1,6 @@
 ---
 title: "Week 7: Public records sprint"
-layout: single
+layout: post
 excerpt: "Most of the week is a public records sprint, but we'll also cover getting data out of pdf documents"
 date: 2020-08-20
 categories:
