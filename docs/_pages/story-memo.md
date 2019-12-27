@@ -5,7 +5,7 @@ sidebar:
 permalink: /story-memo
 ---
 
-This project makes up 15 percent of your final grade. It involves analyzing a dataset that contains records that would be of interest to a story or feature. I will provide a list of datasets that you can choose from, but please let me know by the end of January if you have a good candidate.
+This project makes up 15 percent of your final grade. It involves analyzing a dataset that contains records that would be of interest to a story or feature. 
 
 Key deadlines:
 

@@ -21,7 +21,7 @@ Instructor: Sarah Cohen / sarah.h.cohen@asu.edu / 361 Cronkite
 
 Student hours: Tues-Thurs when I'm not in class. Please Slack me to make sure I'll be there when it's convenient for you.
 
-Course website: [https://cronkitedata.github.io/mco510/](https://cronkitedata.github.io/mco510/)
+Course website: [https://cronkitedata.github.io/dj/](https://cronkitedata.github.io/dj/)
 
 <figure style="display:inline-block;float:right">
   <img src="{{site.baseurl}}/assets/images/wormhoudt.png" style="width:700px">
@@ -47,7 +47,7 @@ By the end of the semester, you should be able to:
 
 ### Required materials and texts
 
-There are no requried texts for this class. Most of the course materials are linked here. The full site of resources is at [https://cronkitedata.github.io/cronkite-docs](https://cronkitedata.github.io/cronkite-docs])
+There are no requried texts for this class. Most of the course materials are linked here. The full site of resources is at [https://cronkitedata.github.io/cronkite-docs](https://cronkitedata.github.io/cronkite-docs)
 
 You should use your official ASU email for all work in this class, and check it regularly. Other materials include:
 
@@ -204,7 +204,7 @@ The MCO bootcamp is the only prerequisite required for this class, including the
 
 ### Q: What is the Slack Channel?
 
-Slack is a messaging and teamwork app that has become the de facto standard in newsrooms, including Cronkite News and News 21. You will post your weekly comments in Slack and should consult it at least once a day for announcements. Use Slack to ask for help. There is a link to the Slack Channel on the course in My ASU.
+Slack is a messaging and teamwork app that has become the de facto standard in newsrooms, including Cronkite News and News 21. You should set up alerts for key channels to be sure you'll get class announcements. Check the #sos channel regularly to see what questions others have, or to post some yourself. Use the #stories channel to post and discuss items you run across that might be of interest to the group. There is a link to your Slack account on the course in My ASU.
 
 ### Q: How should I communicate with you?
 
@@ -223,9 +223,10 @@ In technical work, asking a good question is an art. Generally, make sure you :
 
 ### Q: I already know how to code. Why do I have to take this class?
 
-There's a snotty, mean answer and a real answer. The rude answer is that you probably already knew how to use a telephone or take pictures before you came to Cronkite, but you're here to hone those skills for journalism. The same thing holds here. The real answer is: Come talk with me. We'll find ways to make the time productive and take you to the next level in data reporting. Another real answer is: Relax and spend your time applying your skills to journalism and helping others.
+Even if you know how to code, I presume you are at Cronkite because you want to apply all of your skills to a journalism career.  You probably knew how to use a phone or take a picture before you came to j-school, but you may not have used them the way you do now. It's the same thing. That said, come talk with me if you're concerned that you won't be challenged enough. We'll find ways to make the time productive and take you to the next level in data reporting.
 
 <p  style="page-break-after: always;"></p>
+
 ## Cronkite policies
 
 Cronkite policies

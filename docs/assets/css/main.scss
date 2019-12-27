@@ -8,14 +8,14 @@ $link-color: DarkRed;
 
 
 /* type scale */
-$type-size-1 : 2.441em;  // ~39.056px
+$type-size-1 : 2.15em;  // ~39.056px
 $type-size-2 : 1.953em;  // ~31.248px
 $type-size-3 : 1.563em;  // ~25.008px
 $type-size-4 : 1.25em;   // ~20px
 $type-size-5 : 1em;      // ~16px
-$type-size-6 : 0.75em;   // ~12px
-$type-size-7 : 0.6875em; // ~11px
-$type-size-8 : 0.625em;  // ~10px
+$type-size-6 : 0.85em;   // ~12px
+$type-size-7 : 0.75em; // ~11px
+$type-size-8 : 0.65em;  // ~10px
 
 
 //Now import the css.
@@ -32,7 +32,7 @@ html {
   }
 
   @include breakpoint($large) {
-    font-size: 18px; // change to whatever
+    font-size: 16px; // change to whatever
   }
 
   @include breakpoint($x-large) {
