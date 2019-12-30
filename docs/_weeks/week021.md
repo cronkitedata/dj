@@ -10,12 +10,14 @@ class_date: 2020-01-21
 
 {{page.class_date | date: "%A, %B %-d"}}
 
->Social scientists throw away outliers. Journalists write about them
-> and
->Unbelievable outliers are either unbelievable news, or just unbelievable.
+>Social scientists throw away outliers. Journalists write about them.
 
-><cite>data journalism cliches, but true</cite>
 
+>Extreme outliers might be news, but they're probably  just mistakes.
+
+## Deadlines
+
+* [Census assignment]({{ "assignments/01-census" | relative_url }}) due Sunday, Jan. 19
 
 ## In class
 * Homework review: Finding stories in data
@@ -23,6 +25,8 @@ class_date: 2020-01-21
 * Lab: Filter and sort (data tk)
 
 ## Preparation
+
+### Reading
 
 * "[Take an Interviewing Approach to Find Stories in Data](http://mediashift.org/2014/07/take-an-interviewing-approach-to-find-stories-in-data/)", by Derek Willis, Mediashift, July 2014.
 * "[What is a data state of mind](https://datajournalism.com/read/longreads/what-is-a-data-state-of-mind-and-how-you-can-develop-it)? And how you can develop it," Mary Jo Webster, Data Driven Journalism, September 2016

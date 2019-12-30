@@ -1,7 +1,7 @@
 ---
 layout: single
 collection: assignments
-title: "Stories in Census population data"
+title: "01 - Stories in Census population data"
 due_date: 2020-01-19
 ---
 

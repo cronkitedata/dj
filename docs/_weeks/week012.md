@@ -12,7 +12,7 @@ class_date: 2020-01-14
 
 ## Assignments due:
 
-Sunday, Jan. 19: Finding stories in Arizona Census data: [exercise]() \| [data](), with data diary, on Canvas.
+Sunday, Jan. 19: Finding stories in Arizona Census data: [exercise]({{site.cdocs}}/excel/practice/01-excel-azpop-exercise) \| [data]({{site.cdocs}}/assets/data/xlexamples/arizona_popchange_2018.xlsx), with data diary, on Canvas.
 
 ## In class
 
