@@ -10,7 +10,7 @@ classes: wide
 <style type="text/css">
 table {
   border-collapse: collapse;
-  font-size: .75em;
+  font-size: .85em;
 }
 th, tr {
   border-top:1px solid #c6cbd1;
@@ -27,12 +27,14 @@ th:nth-of-type(3) {
 th:nth-of-type(4) {
   width: 35%;
 }
+/*
 tbody tr:nth-of-type(odd){
   background-color: whitesmoke;
 }
 tbody tr:nth-of-type(odd) td {
   border-top: 1px solid lightgrey;
 }
+*/
 </style>
 
 
@@ -73,36 +75,6 @@ Week<br>num | Date| Topics | Deadlines
 **The explainer assignment is in lieu of a final exam and is due when your final exam would end. The specific date and time will be on the Canvas assignment**
 {: .notice--info}
 
-## [01- August 16]({{site.baseurl}}/weeks/week011)
-* Introductions - you and me
-* Review of syllabus
-* {: .bluetext} Lecture: Overview of data reporting
-* Excel refresher
-*
-
-## [02 - August 21]({{site.baseurl}}/weeks/02-excel-review)
-* Quick reading exercise
-* Excel math review and documentation assignment
-* Thursday: Guest speaker Agnel Philip, Arizona Republic
-
-## [03 - August 28]({{site.baseurl}}/weeks/03-excel-practice)
-* Quick reading exercise
-* Additional Excel practice with population data that's a little harder
-* *Thursday*: What is tidy data and why do we care?
-
-## [04 - September 4]({{site.baseurl}}/weeks/04-excel-pivot-tables)
-* Quick reading exercise
-* Grouping / pivot table assignment
-* *Thursday*: Guest speaker: Allison McCann, Vice / HBO
-* *Graduate students' story recommendation and review due Friday 5pm.*
-
-## [05 - September 11]({{site.baseurl}}/weeks/05-excel-build)
-* Excel review and
-* *Thursday*: ~~Assign teams for public records project; Guest speaker Sandhya Kambhampati, ProPublica Illinois~~ Going further with Excel: Lookup, date math (not on exam)
-
-## [06 - September 18]({{site.baseurl}}/weeks/06-excel-exam)
-* **Excel exam** You'll start the exam in class and have 24 hours to complete it. Any technical or clarification questions you have must be asked in class in front of the rest of the group. You can leave whenever you want, but I won't respond to any questions until after the deadline.
-* *Thursday*: Public records workshop; assign teams and start research. Details are on the [data negotiation project page]({{site.baseurl}}/data-negotiation)
 
 ## [07- September 25]({{site.baseurl}}/weeks/07-formats-public-records)
 * Quick demo of data formats (xml, json, csv and cousins)
@@ -110,10 +82,6 @@ Week<br>num | Date| Topics | Deadlines
 
 ## [08 - October 2]({{site.baseurl}}/08-pdfs)
 * [Dealing with PDFs and other bad formats]({{site.baseurl}}/tutorials/xl-pdf-convert); converting reports to data (demo)
-
-*Thursday*: Public records workshop: Assign a team member to make the informal request. We'll have two weeks for follow up. Second memo due.
-
-*Grad students'* [story critique]({{site.baseurl}}/assignments/02-MCO510-story-assignment) is due Friday at 5pm.
 
 ## 09 - October 11 (fall break Oct. 9)
 * ~~Cleaning data with OpenRefine~~
@@ -123,45 +91,3 @@ Week<br>num | Date| Topics | Deadlines
 * Finding hidden data in websites.
 * ~~In-class exercise on finding hidden data instead of cleaning exam~~
 * *Thursday*: Public records workshop : Public records memo & request due
-
-## [11 - October 23]({{site.baseurl}}/weeks/11-r-intro)
-* Beyond Excel - Beginning programming with R
-* *Thursday*: Data analysis project: First ideas for dataset.
-
-## [12 October 30]({{site.baseurl}}/weeks/12-r-dplyr)
-*Tuesday*
-* Importing into R
-* Filters and ~~group by~~ selects in R
-* ~~Joining in R~~
-* *Thursday*
-* Guest: Prof. Marianne Barrett, on literature reviews
-* Continue with Wrangling in R
-
-* ~~[begin work on project]({{site.baseurl}}/assignments/08-story-memo-project)~~
-
-## 13 - November 6
-* Due Nov 5: [Your proposal for the story memo project dataset]({{site.baseurl}}/assignments/08-story-memo-project).
-*Tuesday*
-Election day. We'll go over your story proposals and get started on the project in class as a workshop.
-*Thursday*
-Some people are getting very frustrated with R, and I think part of it is that you don't see the point -- we're doing things you could have done in Excel. I want to give you some motivation for learning it with some examples of what it can do, esp. in exploratory visualization.
-
-
-## [14 - November 13]({{site.baseurl}}/weeks/14-vis-r):
-* Due Friday, Nov 16: [First draft - option 1]({{site.baseurl}}/assignments/08-story-memo-project)
-* Making maps in R? We may not get to this.
-* Visualization in R and options for other tools
-* Get to next step on the data analysis project. We'll talk about what a first draft would look like for each of your projects.
-* *Thursday*:  Two additional skills in R - data cleaning and basic charts.
-
-## 15 - November 20
-* Finish your **R walkthrough** instead of R exam
-* Thursday: *Thanksgiving*
-
-## 16 - November 26
-* Due Nov. 25: [First or second draft]({{site.baseurl}}/assignments/08-story-memo-project).
-* Data analysis lab.
-* Thursday: Where to go from here?
-
-## December 4
-Data analysis project due instead of final exam

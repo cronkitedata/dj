@@ -27,7 +27,7 @@ url                          : "https://cronkitedata.github.io"
 repository                   : "cronkitedata/mco510"
 twitter_username             : sarahcnyt
 github_username              : sarahcnyt
-minimal_mistakes_skin        : "air"
+minimal_mistakes_skin        : "default"
 search                       : true
 
 ## custom variables for me -- test !

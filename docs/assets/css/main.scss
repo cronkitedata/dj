@@ -54,18 +54,18 @@ html {
   font-size: 1.25em!important;
 }
 
-
-
-/*
-.toc__menu a {
-  font-size: $type-size-4;
+a:link  {
+  text-decoration: none;
 }
 
-sub {
-  font-size: $type-size-5;
+a:visited {
+  text-decoration: none;
 }
 
-.sidebar ul {
-  font-size: $type-size-4;
+a:hover {
+  text-decoration: underline;
 }
-*/
+
+a:active {
+  text-decoration: underline;
+}

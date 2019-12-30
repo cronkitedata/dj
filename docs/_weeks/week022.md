@@ -12,7 +12,7 @@ class_date: 2020-01-23
 
 ## In class
 
-We could spend the rest of the semester becoming Excel nerds, but this week marks the last skill that you'll have to master using spreadsheets. And it marks the moment when you can care more about words than numbers.
+
 
 ## Preparation
 

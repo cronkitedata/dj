@@ -20,6 +20,9 @@ class_date: 2020-01-21
 * [Census assignment]({{ "assignments/01-census" | relative_url }}) due Sunday, Jan. 19
 
 ## In class
+
+We could spend the rest of the semester becoming Excel nerds, but this week marks the last skill that you'll have to master using spreadsheets. And it marks the moment when you can care more about words than numbers.
+
 * Homework review: Finding stories in data
 * Filter and sort
 * Lab: Filter and sort (data tk)
@@ -30,7 +33,7 @@ class_date: 2020-01-21
 
 * "[Take an Interviewing Approach to Find Stories in Data](http://mediashift.org/2014/07/take-an-interviewing-approach-to-find-stories-in-data/)", by Derek Willis, Mediashift, July 2014.
 * "[What is a data state of mind](https://datajournalism.com/read/longreads/what-is-a-data-state-of-mind-and-how-you-can-develop-it)? And how you can develop it," Mary Jo Webster, Data Driven Journalism, September 2016
-* "[Demystifying Data Journalism](https://www.youtube.com/watch?v=P_nj0r_A0co)," Mashable Media Summit with Susan McGregor and Sarah Cohen, December 2012.
+* "[Demystifying Data Journalism](https://www.youtube.com/watch?v=P_nj0r_A0co)," Mashable Media Summit with Susan McGregor and Sarah Cohen, December 2012. The story I mention in this video, "Ghost Factories" from USA Today, is no longer live online. Unfortunately, the website with the project doesn't exist anymore. If you want to read it, try finding it in the Wayback machine (good practice for you) or look at archives through the library. It was first published in mid-2012.
 
 Recommended:
 

@@ -30,8 +30,7 @@ Course website: [https://cronkitedata.github.io/dj/](https://cronkitedata.github
 
 ## Description
 
-This is a class in data journalism focused the systematic use of public records, documents and other material in public affairs reporting. We're calling it "empirical journalism".
-Previous generations might have called it “computer-assisted reporting” or “precision journalism”. Whatever the name, the idea is the same: original reporting and analysis in the service of stories, particularly in the accountability and explanatory genres.
+This is a class in data journalism focused the systematic use of public records, documents and other material in public affairs reporting. We're calling it "empirical journalism", but previous generations might have called it “computer-assisted reporting” or “precision journalism”. Whatever the name, the idea is the same: original reporting and analysis in the service of stories, particularly in the accountability and explanatory genres.
 
 Analyzing records can help you confirm or disprove a tip, isolate anecdotes, and explore stories or patterns that no one has thought to mention.
 Using data-driven techniques, your street reporting will become deeper and more enlightening. Better yet, the techniques you’ll learn in this class will often yield exclusive stories.
@@ -78,14 +77,14 @@ This course will use a point system adding up to 1000 points for the semester.
 
 **Grading philosphy**:<br>
 Following all of the instructions and doing all assignments and preparation is "B" work. You can improve on this by going beyond what's asked of you: suprise or delight me with your special insight, extraordinary effort, imaginative use of data, or professional level writing or presentation.
-{: .notice--warning}
+{: .notice--info}
 
 
 ### Daily work (500)
 
-Doing well in this class means working slowly, methodically and consistently. In the words of a wise man (and excuse his language):
+Doing well in this class means working slowly, methodically and consistently. In the words of of University of Nebraska professor Matt Waite:
 
-<blockquote class="twitter-tweet" style="align:center;"><p lang="en" dir="ltr">Week 1 email just sent to class: &quot;If you&#39;re a Not Due Today, Not Doing It Today type, this class is going to bite you in the ...&quot;</p>&mdash; Matt Waite (@mattwaite) <a href="https://twitter.com/mattwaite/status/1166433967626686464?ref_src=twsrc%5Etfw">August 27, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+[![matt waite tweet]({{ "assets/images/mwtweet_edited.png" | relative_url}})](https://twitter.com/mattwaite/status/1166433967626686464)
 
 Daily work is made up of several distinct elements:
 
@@ -93,9 +92,9 @@ Daily work is made up of several distinct elements:
 
 * Preparation for class, including attention to the reading and viewing and practicing on your own. (25%)
 
-* Application of data skills and principles to journalism. This includes news judgment, ethics, accuracy, writing / presentation, and research/reporting when appropriate. We won't be doing full stories here, but it's still a journalism class. This matters as much as any technical skill you might learn. (25%)
+* Application of data skills and principles to journalism. This includes news judgment, ethics, accuracy, writing / presentation, and research/reporting when appropriate. We won't be doing full stories here, but it's still a journalism class. This matters as much as any technical skill you might learn. (20%)
 
-* Teamwork, initiative, engagement, and attention to editorial direction. Offer your superpowers to the group and pay attention to suggestions to take your work to the next level. (10%)
+* Teamwork, initiative, engagement, and attention to editorial direction. Offer your superpowers to the group and pay attention to suggestions to take your work to the next level. (15%)
 
 There are **three self-assessment assignments** in Canvas. In each of these assessments, you'll tell me how well you think you're doing on each of these elements and suggest a grade. Please arrange for a short visit with me within a day or two of turning in a self-assessment. I'll provide the grade for that portion of the daily work after we meet.
 
@@ -131,23 +130,19 @@ This assignment will involve coming up with a story idea, then looking for some 
 
 The minimal requirement is to arrive on time, prepared and ready to work. Put your phone away as soon as you get to class. Be polite to your fellow classmates and any guest speakers. Refrain from eating, using social media, shopping and sleeping. If you can't fake being engaged and active in class then don't stay -- you'll distract everyone else.
 
-Being prepared will take a different amount of time for each student each week. I expect you will spend about 6 hours outside of class on the assignments. Being prepared means:
+Preparation will take a different amount of time for each student each week. I expect you will spend about 6 hours outside of class on the assignments. Being prepared means:
 
 *	Carefully reading all of the assigned material and exploring some of the recommended pieces or links. Ideally, you'll discuss these readings on Slack before class begins.
 *	Going through the videos and tutorials and completing any self-assessments or quizzes.
 *	Turning in any assignments by the due date and time. Be sure to save often and upload early. Losing your homework to the computer golem isn’t an excuse
 
-The preliminary schedule for this class is aggressive. Please speak up if we're moving too fast -- if you're lost or overwhelmed, you're probably not alone.
-
-
 ### Attendance and deadlines
 
 There are no excused absences or late assignments, with the exception of a true emergency or religious observance. We all make decisions about how we spend our time. You might decide it’s more important to schedule a job interview, go on a trip, or drive across the state to interview a source than to attend class or complete your work. If I were you, I might decide the same thing, but these are choices that reflect your priorities. They’re not emergencies, nor are they excused absences or deadlines.
 
-That said, we all have illnesses or other issues that interfere with our commitments. You may miss one class and one daily deadline with no questions asked, but you should make up the work in a timely manner. If you miss more than two classes for any reason, your grade will drop by two steps (eg, from an A to a B+).
-
 As in all journalism work, you are expected to meet deadlines. Turning in any project or exam late will result in a lower grade. You cannot get credit for completing more than one routine assignment late.
 
+**You may miss one class and one daily deadline with no penalty and no questions asked, but you should make up the work in a timely manner.** Following Cronkite's grading  policies, if you miss more than two classes for any reason, your grade will drop by two steps (eg, from an A to a B+).
 
 
 ### Accuracy
@@ -158,9 +153,9 @@ I don’t expect your work to be polished and exact. However, work that shows a 
 
 <!-- BEGIN NOTICE OF TROUBLE -->
 
-<div class="notice--warning">
+<div class="notice--info">
 
-<div style="color:darkred;font-size:2rem;font-weight:bold;"> Having trouble? </div>
+<div style="font-size:2rem;font-weight:bold;"> Having trouble? </div>
 
 <figure style="display:inline-block;float:right; margin-left: 20px;">
   <img src="{{site.baseurl}}/assets/images/moller.png" style="width:350px;">
@@ -216,7 +211,7 @@ There are three self-assessments for the 50 percent of the final grade dependent
 
 ### Q: How do I ask good questions?
 
-In technical work, asking a good question is an art. Generally, make sure you :
+In technical work, asking a good question is an art. Try to:
 * Describe what you are trying to do -- what does success look like?
 * Provide a snippet of the code or the Excel formula that you're trying
 * Take a screen shot or quote the error message if there is one
@@ -228,8 +223,6 @@ Even if you know how to code, I presume you are at Cronkite because you want to 
 <p  style="page-break-after: always;"></p>
 
 ## Cronkite policies
-
-Cronkite policies
 
 **Academic Integrity**: The school has a zero-tolerance policy toward academic dishonesty that is enforced within every course and educational activity offered or sanctioned by the school. Any allegation of academic dishonesty will be referred to the school’s Standards Committee for review and recommendation to the dean of the school. If any student is found to have engaged in academic dishonesty in any form – including but not limited to cheating, plagiarizing and fabricating – that student shall receive a grade of XE for the class and will be dismissed from the school. There will be no exceptions.
  At the beginning of every Cronkite class, you will be given a copy of the full academic integrity policy, along with accompanying information on plagiarism. You must sign a pledge that indicates you have read and understood the material and agree to abide by the policy.

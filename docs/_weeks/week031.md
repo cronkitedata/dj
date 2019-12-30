@@ -17,20 +17,21 @@ publish: true
 
 * Review the [tidy data chapter]({{site.cdocs}}/excel/xlguides/xl-tidydata). (You've already looked at the data types part of it -- tidy data is halfway down.)
 
-So far, much of your reading has been technical -- tutorials and how-tos. Now we're going to start adding journalism into the mix, including approaches to records and statistics that are peculiar to journalism, and stories that have been reported using records as a starting point:
+From now on, we'll be reading and viewing or listening to actual stories, usually three or four a week. Try to look at them like a writer, not a casual audience member. Try to think about:
 
-GET RID OF SOME OF THESE.
+* Where might the reporters have found their key examples, and what made them good characters or illustrations of the larger issue? Could they have come from the data?
+* What records were used? Were they public records, leaks, or proprietary data?  How  might you localize or adapt these methods to find your own stories?
+* Pick out the key findings (usually in the nut graf or in a series of bullets after the opening chapter): are they controverial? How might they have been derived? What standards are they measuring against?
+* What is the writing and presentation mechanism for the story? What makes it compelling journalism rather than a dry study?
+* Does the story broaden an already existing narrative or anecdote, or did it seem to start with a big idea? How did it evolve, and what questions were asked?
+* Are you convinced? Are there holes or questions that didn't get addressed?
+
+This week's stories:
 
 * The Boston Globe's Todd Wallack [tweetstorm on data journalism](https://twitter.com/TWallack/status/931175887269134336). Be sure to read the full story linked off of the tweet.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Just wanted to say a few words about how data journalism can help reporters flesh out a story.</p>&mdash; Todd Wallack (@TWallack) <a href="https://twitter.com/TWallack/status/931175887269134336?ref_src=twsrc%5Etfw">November 16, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-* "[Even Critics of the saftey net increasingly Depend on It](http://archive.nytimes.com/www.nytimes.com/2012/02/12/us/even-critics-of-safety-net-increasingly-depend-on-it.html)", by Binyamin Applebaum and Robert Gebeloff, New York Time, February 2012. This is a good example of mashing up Census data on counties with other sources.
-
-* "[Rural Aid Goes to Urban Areas]({{site.baseurl}}/assets/docs/rural_development.pdf)", by Gilbert Gaul and Sarah Cohen. This is an example of using county typology codes mashed up with other data
-
-* Boston Globe: "[For some State Police, it's a posting in Paradise](https://www.bostonglobe.com/metro/2018/07/14/for-some-state-police-posting-paradise/OAQmtHaFtLZr0Mt8faPQKM/story.html)," by Kay Lazar and Todd Wallack. Be sure to [read Todd's tweetstorm](https://mobile.twitter.com/TWallack/status/1025346534471348225) on what it took to get this data, and how he got past bureaucratic and public records battles.
-
-* "[The Serial-Killer Detector](https://www.newyorker.com/magazine/2017/11/27/the-serial-killer-detector)", The New Yorker, Nov. 27, 2017 about Tom Hargrove's career as a data reporter and how it led to the Murder Accountability Project
-
 * "[L.A. is slammed with record costs for legal payouts](http://www.latimes.com/local/lanow/la-me-ln-city-payouts-20180627-story.html)", Emily Alpert Reyes and Ben Welsh
+
+* APM Reports' podcast series ["In the Dark" Season 2, Episode 7](https://www.apmreports.org/in-the-dark/season-two) on the many trials of Curtis Flowers was driven by data reporting by Will Craft, June 15, 2018.  (Scroll all the way past the latest developments to get a list of the episodes)
