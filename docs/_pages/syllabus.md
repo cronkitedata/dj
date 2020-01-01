@@ -17,11 +17,10 @@ Section 2, MIJ students: 4-5:50 TTh<br>
 Cronkite 404b
 
 
-Instructor: Sarah Cohen / sarah.h.cohen@asu.edu / 361 Cronkite
-
-Student hours: Tues-Thurs when I'm not in class. Please Slack me to make sure I'll be there when it's convenient for you.
-
-Course website: [https://cronkitedata.github.io/dj/](https://cronkitedata.github.io/dj/)
+Instructor: Sarah Cohen / sarah.h.cohen@asu.edu / 361 Cronkite<br>
+Student hours: Tuesday, Wednesday and Thursday when I'm not in class. Please Slack me to make sure I'll be there when it's convenient for you.<br>
+Course website: [https://cronkitedata.github.io/dj/](https://cronkitedata.github.io/dj/) <br>
+More resources: [https://cronkitedata.github.io/cronkite-docs/](https://cronkitedata.github.io/cronkite-docs/)
 
 <figure style="display:inline-block;float:right">
   <img src="{{site.baseurl}}/assets/images/wormhoudt.png" style="width:700px">
@@ -42,8 +41,6 @@ By the end of the semester, you should be able to:
 * Integrate data journalism techniques with traditional reporting methods.
 * Identify skills you want to learn in the future and become adept at jumping into new technologies in service to your journalism.
 
-<p  style="page-break-after: always;"></p>
-
 ### Required materials and texts
 
 There are no requried texts for this class. Most of the course materials are linked on this site. A full site of resources is at [https://cronkitedata.github.io/cronkite-docs](https://cronkitedata.github.io/cronkite-docs)
@@ -62,6 +59,7 @@ You should use your official ASU email for all work in this class, and check it 
 
 * "[The Art of Access: Strategies for Acquiring Public Records](https://www.amazon.com/Art-Access-Strategies-Acquiring-Records/dp/1506380700/ref=pd_sbs_14_t_0/141-5195764-7429116)", David Cullier and Charles N. Davis, 2nd edition (2018)
 
+<p  style="page-break-after: always;"></p>
 ## Grading
 
 This course will use a point system adding up to 1000 points for the semester.
@@ -125,6 +123,7 @@ This assignment will involve coming up with a story idea, then looking for some 
 
 **3 - Explainer (50)**: At some point over the semester, choose one thing you found interesting and create an explainer on it. The topic can be anything related to the course -- a technique in Excel or R, some problem you had to overcome during the class, or an intriguing dataset that we didn't explore. The medium is also flexible -- you might choose an R Markdown walkthrough or a video, for example. This is short and targeted -- a video tutorial of no more than 5 minutes, or a document of no more than about 3 pages. This is due anytime during the semester, but I suggest doing it as soon as you stumble on something that interests you, while it's still fresh in your mind.
 
+<p  style="page-break-after: always;"></p>
 ## Course policies
 
 >
@@ -195,7 +194,6 @@ All work submitted under your name must be your work and your work alone. When y
 Simple. There is none. Why? This course is made up of a lot of little pieces. They can't be replaced by attending a lecture.
 
 <p  style="page-break-after: always;"></p>
-
 !["brodeur"]({{site.baseurl}}/assets/images/brodeur.png)
 
 
