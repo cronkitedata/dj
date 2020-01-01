@@ -24,7 +24,7 @@ docs:
   - title: "Project-ish"
     children:
       - title: "Data hunt"
-        url: /story-idea
+        url: /data-hunt
       - title: "Explainer"
         url: /explainer
       - title: "Data walk"

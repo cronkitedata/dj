@@ -10,37 +10,39 @@ class_date: 2020-01-14
 
 > Write a letter to your future self so it doesn't hate your present self.
 
-## Assignments due:
-
-Sunday, Jan. 19: Finding stories in Arizona Census data: [exercise]({{site.cdocs}}/excel/practice/01-excel-azpop-exercise) \| [data]({{site.cdocs}}/assets/data/xlexamples/arizona_popchange_2018.xlsx), with data diary, on Canvas.
-
-## In class
+## Class outline
 
 * Ethics and accuracy in data journalism part one
 * Introducing the data diary
 * Understanding data types: numbers, dates and text
 * Lab: Calculating speeds from dates and times using 25,000 of the Sun-Sentinel's 72,000 records ([data file]({{site.cdocs}}/assets/data/xlexamples/cops-transponders.xlsx) \| [source](http://databases.sun-sentinel.com/news/broward/ftlaudCopSpeeds/ftlaudCopSpeeds_list.php) )
 
-Keep a copy of this dataset when we're done -- we're going to come back to it next week.
+Keep a copy of this dataset when we're done -- we'll be coming back to it at some point.
+
+
+## Due this week
+
+Friday: Academic integrity pledge on Canvas; download and sign into the Slack workspace for your section, linked off of My ASU.
+Sunday, Jan. 19: Finding stories in Arizona Census data: [exercise]({{site.cdocs}}/excel/practice/01-excel-azpop-exercise) \| [data]({{site.cdocs}}/assets/data/xlexamples/arizona_popchange_2018.xlsx), with data diary, on Canvas.
 
 ## Preparation
 
-* Read Mike Berens (now of Reuters) on the [heart of data journalism]({{site.cdocs}}/assets/docs/berens_nerds_words.pdf), written in 1999, excerpt from Poynter's "[When Nerds and Words Collide](https://www.dropbox.com/s/qw60af018wh1bkf/nerds-and-words.pdf?dl=0)" (reproduced with permission).
+* "[The Myth of the Machine]({{site.cdocs}}/assets/docs/berens_nerds_words.pdf)", by Mike Berens, now of Reuters. It's a chapter Poynter's 1999 review of computer assisted reporting, "[When Nerds and Words Collide](https://www.dropbox.com/s/qw60af018wh1bkf/nerds-and-words.pdf?dl=0)" (reproduced with permission).
 
-* Watch this video on understanding data types - we'll go back over it together.
+* "[Challenges of Data Journalism](https://www.americanpressinstitute.org/publications/reports/strategy-studies/data-journalism/single-page/#challenges-of-data-journalism)" section from Diving into Data Journalism by Samantha Sunne, American Press Institute, 2016 (You only need to read that section. The chapters aren't well marked.)
 
-<iframe width="200" height="100" src="https://www.youtube.com/embed/AiYLwi-XNck" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="margin-left:5rem;margin-bottom:15px;"></iframe>
-
-* Review Part 1 of the Sun-Sentinel's award-winning project on speeding cops: "[Cops among Florida's worst Speeders, Sun-Sentinel Investigation Finds](https://www.sun-sentinel.com/local/fl-speeding-cops-20120211-story.html)", by Sally Kestin and John Maines, Feb. 11, 2012 (2013 Pulitzer Prize winner). I understand this is a bit long -- read enough of it to understand what they did and how they found it, as well as why data types matter. We'll be using a portion of this data in class.
-
-### On ethics and accuracy:
-
-We'll be revisiting accuracy and bulletproofing your work later in the semester, but these should get you started on some of the particular ethical challenges of empirical reporting.
-
-* "[Challenges of Data Journalism](https://www.americanpressinstitute.org/publications/reports/strategy-studies/data-journalism/single-page/#challenges-of-data-journalism)" section from Diving into Data Journalism by Samantha Sunne, American Press Institute, 2016
 * [Replication and the data diary]({{site.cdocs}}/general/04-data-diary)
     * An [example data diary](https://docs.google.com/document/d/1EzjZYKmr8u5QIIDEmVKCtyzlzie06VMyFRa2RRqmiT0/edit?usp=sharing). (I updated some of the links, but the data description is actually from 2017)
     * An [example data diary]({{site.cdocs}}/assets/docs/xl-mathreview-datadiary) from the budget exercise that goes through what was done before you got it.
+
+* Understanding data types:
+
+<iframe width="200" height="100" src="https://www.youtube.com/embed/AiYLwi-XNck" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="margin-left:5rem;margin-bottom:15px;"></iframe>
+
+* "[An alarming number of scientific papers contain Excel errors](https://www.washingtonpost.com/news/wonk/wp/2016/08/26/an-alarming-number-of-scientific-papers-contain-excel-errors/) - now  you know how it happens.
+
+* Part 1 of the Sun-Sentinel's award-winning project on speeding cops: "[Cops among Florida's worst Speeders, Sun-Sentinel Investigation Finds](https://www.sun-sentinel.com/local/fl-speeding-cops-20120211-story.html)", by Sally Kestin and John Maines, Feb. 11, 2012 (2013 Pulitzer Prize winner).
+
 
 OPTIONAL:
 

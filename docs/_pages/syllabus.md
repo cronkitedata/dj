@@ -46,13 +46,13 @@ By the end of the semester, you should be able to:
 
 ### Required materials and texts
 
-There are no requried texts for this class. Most of the course materials are linked here. The full site of resources is at [https://cronkitedata.github.io/cronkite-docs](https://cronkitedata.github.io/cronkite-docs)
+There are no requried texts for this class. Most of the course materials are linked on this site. A full site of resources is at [https://cronkitedata.github.io/cronkite-docs](https://cronkitedata.github.io/cronkite-docs)
 
 You should use your official ASU email for all work in this class, and check it regularly. Other materials include:
 
 * An ASU Slack account, which is automatically created for you in the course. This will be our primary method of communication.
 
-* A free copy of Microsoft Excel available in myapps.asu.edu and free software including R, R Studio and OpenRefine. You are not required to have your own computer. All of these are installed on the lab computers and you can also use a free account at RStudio.cloud to use a web-based version of that software.
+* A free copy of Microsoft Excel available in myapps.asu.edu and free software including R, R Studio and OpenRefine. You are not required to have your own computer. All of these are installed on our classroom computers. You can also use a free account at RStudio.cloud to use a web-based version of that software.
 
 #### Recommended
 
@@ -88,13 +88,16 @@ Doing well in this class means working slowly, methodically and consistently. In
 
 Daily work is made up of several distinct elements:
 
-* Labs and homework, which will be simply noted as "Complete" or "Incomplete". A complete assignment is one that is turned in on time at an acceptable level of quality, accuracy and completeness. (40%)
+* <ins>Labs and homework</ins>, which will be simply noted as "Complete" or "Incomplete". A complete assignment is one that is turned in on time at an acceptable level of quality, accuracy and completeness. (40%)
 
-* Preparation for class, including attention to the reading and viewing and practicing on your own. (25%)
+* <ins>Preparation for class</ins>, including attention to the reading and viewing and practicing on your own. (25%). <br><br> Preparation will take a different amount of time for each student each week. I expect you will spend about 6 hours outside of class on the assignments. Being prepared means:
 
-* Application of data skills and principles to journalism. This includes news judgment, ethics, accuracy, writing / presentation, and research/reporting when appropriate. We won't be doing full stories here, but it's still a journalism class. This matters as much as any technical skill you might learn. (20%)
+  *	Carefully reading or watching all of the assigned material and exploring some of the recommended pieces or links. Ideally, you'll discuss these readings on Slack before class begins.
+  *	Following along on all of the tutorials and walkthroughs, and completing any self-assessments or quizzes.
 
-* Teamwork, initiative, engagement, and attention to editorial direction. Offer your superpowers to the group and pay attention to suggestions to take your work to the next level. (15%)
+* <ins>Application of data skills and principles to journalism</ins>. This includes news judgment, ethics, accuracy, writing / presentation, and research/reporting when appropriate. We won't be doing full stories here, but it's still a journalism class. This matters as much as any technical skill you might learn. (20%)
+
+* <ins>Teamwork, initiative, engagement, and attention to editorial direction</ins>. Offer your superpowers to the group and pay attention to suggestions to take your work to the next level. (15%)
 
 There are **three self-assessment assignments** in Canvas. In each of these assessments, you'll tell me how well you think you're doing on each of these elements and suggest a grade. Please arrange for a short visit with me within a day or two of turning in a self-assessment. I'll provide the grade for that portion of the daily work after we meet.
 
@@ -125,20 +128,26 @@ This assignment will involve coming up with a story idea, then looking for some 
 ## Course policies
 
 >
-80% of journalism is just showing up
+90% of life is just showing up
+>
+> -- Woody Allen
 {: .maroon}
 
-The minimal requirement is to arrive on time, prepared and ready to work. Put your phone away as soon as you get to class. Be polite to your fellow classmates and any guest speakers. Refrain from eating, using social media, shopping and sleeping. If you can't fake being engaged and active in class then don't stay -- you'll distract everyone else.
+The minimal requirement is to arrive on time, prepared, and ready to work.
 
-Preparation will take a different amount of time for each student each week. I expect you will spend about 6 hours outside of class on the assignments. Being prepared means:
+Put your phone away as soon as you get to class.
 
-*	Carefully reading all of the assigned material and exploring some of the recommended pieces or links. Ideally, you'll discuss these readings on Slack before class begins.
-*	Going through the videos and tutorials and completing any self-assessments or quizzes.
-*	Turning in any assignments by the due date and time. Be sure to save often and upload early. Losing your homework to the computer golem isn’t an excuse
+Refrain from eating, napping, using social media, shopping.
+
+If you are having an easy time then spend the class helping others who aren't or ask me for something more challenging.
+
+If you can't even fake being engaged and active in class then please leave for the day. I'm easily distracted and might ask you to excuse yourself for the rest of class if I have to stop everything and remind you to put away your phone or close your computer.
 
 ### Attendance and deadlines
 
-There are no excused absences or late assignments, with the exception of a true emergency or religious observance. We all make decisions about how we spend our time. You might decide it’s more important to schedule a job interview, go on a trip, or drive across the state to interview a source than to attend class or complete your work. If I were you, I might decide the same thing, but these are choices that reflect your priorities. They’re not emergencies, nor are they excused absences or deadlines.
+There are no excused absences or late assignments, with the exception of a true emergency or religious observance. We all make decisions about how we spend our time.
+
+You might decide it’s more important to schedule a job interview, go to a family wedding, participate in an event for another class, or drive across the state to interview a source than to attend class or complete your work. If I were you, I might decide the same thing, but these are choices that reflect your priorities. They’re not emergencies, nor are they excused absences or deadlines.
 
 As in all journalism work, you are expected to meet deadlines. Turning in any project or exam late will result in a lower grade. You cannot get credit for completing more than one routine assignment late.
 
@@ -155,7 +164,7 @@ I don’t expect your work to be polished and exact. However, work that shows a 
 
 <div class="notice--info">
 
-<div style="font-size:2rem;font-weight:bold;"> Having trouble? </div>
+<div style="font-size:1.5rem;font-weight:bold;"> Having trouble? </div>
 
 <figure style="display:inline-block;float:right; margin-left: 20px;">
   <img src="{{site.baseurl}}/assets/images/moller.png" style="width:350px;">
@@ -168,7 +177,7 @@ I don’t expect your work to be polished and exact. However, work that shows a 
 
 <ul>
   <li> Slow down! Unlike the rest of journalism, going faster doesn't help. Take little bites of the problem at a time, separate them into their pieces and try to solve a problem step by step. </li>
-  <li> If you've been working on something for more than 20 minutes <b>without making any progress</b>, don't waste more time on it. If you're making just a little progress, keep going. But get help if you're really stuck. The preferred method is to post a question in the Slack #sos channel, where everyone can learn from your question. If you're stuck, there's a good chance others are as well (or they will be). </li>
+  <li> If you've been working on something for more than 20 minutes <b>without making any progress</b>, don't waste more time on it. If you're making just a little progress, keep going. But take a break and come back to it if you're stuck. Get help if you're really stuck. The preferred method is to post a question in the Slack #sos channel, where everyone can learn from your question. If you're stuck, there's a good chance others are as well (or they will be). </li>
   <li> Remember the goal: We're not out to become social scientists, computer programmers or even data analysts. We're journalists. Simplify your questions, focusing on newsworthiness rather than academic research. </li>
   <li> Practice on something you're working on outside of school or for another class. </li>
 </ul>
@@ -195,11 +204,11 @@ Simple. There is none. Why? This course is made up of a lot of little pieces. Th
 
 ### Q: I don't have any experience. What do I  need to succeed?
 
-The MCO bootcamp is the only prerequisite required for this class, including the modules on public records and working with numbers in the newsroom. Beyond that, I would expect a minimal familiarity with spreadsheets in general, and Excel in particular. Look at the materials for Class Zero for resources to check those skills.
+The MCO bootcamp is the only prerequisite required for this class, including the modules on public records and working with numbers in the newsroom. Beyond that, I would expect a minimal familiarity with spreadsheets in general, and Excel in particular. Look at the materials for [the first class]({{ "weeks/week011" | relative_url}}) for resources to check those skills.
 
 ### Q: What is the Slack Channel?
 
-Slack is a messaging and teamwork app that has become the de facto standard in newsrooms, including Cronkite News and News 21. You should set up alerts for key channels to be sure you'll get class announcements. Check the #sos channel regularly to see what questions others have, or to post some yourself. Use the #stories channel to post and discuss items you run across that might be of interest to the group. There is a link to your Slack account on the course in My ASU.
+Slack is a messaging and teamwork app that has become the de facto standard in newsrooms, including Cronkite News and News 21. You should set up alerts for key channels to be sure you'll get class announcements. Check the #sos channel regularly to see what questions others have.  Use the #stories channel to post and discuss items you run across that might be of interest to the group or comment on the stories we review. There is a link to your Slack account on the course in My ASU.
 
 ### Q: How should I communicate with you?
 

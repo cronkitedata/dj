@@ -5,7 +5,7 @@ sidebar:
 permalink: /story-memo
 ---
 
-This project makes up 15 percent of your final grade. It involves analyzing a dataset that contains records that would be of interest to a story or feature. 
+This project makes up 15 percent of your final grade. It involves analyzing a dataset that contains records that would be of interest to a story or feature.
 
 Key deadlines:
 
@@ -49,5 +49,6 @@ Your work will be graded based on:
 * Your story idea and the quality of your written memo.
 * The skill and imagination you showed in teasing out crucial details and facts from your data.
 * The research and reporting you did to understand the promise and pitfalls of your data as it relates to your idea.
+* Accuracy in your data analysis and your characterization of it. 
 * How well you took direction during the project.
 * Your methodology and documentation documents.

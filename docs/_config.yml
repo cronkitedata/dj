@@ -106,6 +106,7 @@ defaults:
       author_profile: false
       sidebar:
          nav: "docs"
+      toc: true
   - scope:
        path: "_assignments"
        type: "assignments"

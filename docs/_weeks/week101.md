@@ -1,5 +1,5 @@
 ---
-title: "Week 14: Visualization as a reporting tool and more R"
+title: "10.1 - Visualization as a reporting tool and more R"
 toc: true
 layout: single
 excerpt: "Motivating your work in R with examples and viz"
@@ -8,6 +8,11 @@ collection: weeks
 sidebar:
    nav: docs
 ---
+
+## DRAFT: UPDATES TK
+
+This class will  be different for the two sections, since the MIJ students will be studying Cairo's work in their statistics sections.
+
 
 ## Skills training - visualization
 
