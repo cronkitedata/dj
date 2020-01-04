@@ -1,14 +1,16 @@
 ---
 title: "1.2 - Data types, and a letter to your future self"
 layout: single
-excerpt: "Ethics and accuracy; the data diary and speeding cops"
+excerpt: "The data diary and speeding cops. In every project you have at least one other collaborator: future-you."
 collection: weeks
 class_date: 2020-01-14
 ---
 
 {{page.class_date | date: "%A, %B %-d"}}
 
-> Write a letter to your future self so it doesn't hate your present self.
+> In every project you have at least one other collaborator:  future-you. You don’t want future-you to curse past-you.
+>
+><cite>Hadley Wickham</cite>
 
 ## Class outline
 

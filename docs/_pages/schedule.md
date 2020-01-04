@@ -52,7 +52,7 @@ Week<br>num | Date| Topics | Deadlines
  | [Jan. 23]({{ "weeks/week022" | relative_url }}) | Pivot tables |
 03 | [Jan. 28]({{ "weeks/week031" | relative_url }}) | Understanding tidy data; Reading the data story |
   | Jan. 30 | Catch-up day and Excel review | Bring questions to class
-04 | [Feb. 4 & 6]({{ "weeks/week041" | relative_url }}) | Excel exam; cleaning data with Open Refine | Su. 2/9: 1st self-assessment
+04 | [Feb. 4 & 6]({{ "weeks/week041" | relative_url }}) |  Excel exam recap <br> Intro to programming | Su. 2/9: 1st self-assessment
 05 | Feb. 11 | Intro to R markdown & programming |
   | Feb. 13 | R for journalists: the tidyverse and its verbs |
 06 | Feb. 18 | Replicating your Excel work in R: Filter and sort |

@@ -17,6 +17,22 @@ Here's some background on that project that might help inspire you as you think 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iqaVe1MCTlA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Stories from homemade databases
+
+Minneapolis Star Tribune:
+
+* “[How We Built a Database from Thousands of Police Reports](https://source.opennews.org/articles/how-we-built-database-thousands-police-reports/) , Mary Jo Webster, Source, Aug. 23, 2018.
+*  "[Denied Justice](http://www.startribune.com/denied-justice-series-when-rape-is-reported-and-nothing-happens-minnesota-police-sexual-assault-investigations/487400761/), Minneapolis Star Tribune:  **Part 1**: When Rape is Reported and Nothing Happens; and **Analysis**: Five Factors that can determine the fate of a sexual assault case.
+
+Washington Post:
+
+* "[Inside the Washington Post's Police Shooting Database: An oral history](Linhttps://medium.com/thewashingtonpost/inside-the-washington-post-s-police-shootings-database-an-oral-history-413121889529)", WP on Medium, December 2015
+* "A Year of Reckoning: Police fatally shoot nearly 1,000", Washington Post staff, Dec. 26, 2015
+* Washington Post github [readme.md](https://github.com/washingtonpost/data-police-shootings) of police shootings. Consider downloading the data and using your newfound filter, sort and pivot table skills to practice.
+
+OPTIONAL IRE Tip Sheet: "[Lessons Learned from Building a Database with Colleagues](https://www.ire.org/resource-center/tipsheets/5788/), Mary Jo Webster, Todd Wallack and Dana Amihere. Note that you have to sign in with your IRE account to see the download. The pdf is at the bottom of the description.
+
+
 ## Designing your own database
 
 I'll approve or help you revise your idea for the data walk. It should be challenging enough so that you have to make difficult decisions and that you have to spend some time collecting it, but not so difficult that you'll never find any instances of what you want to measure.

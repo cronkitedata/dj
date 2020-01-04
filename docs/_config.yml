@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 baseurl                      : "/dj"
 url                          : "https://cronkitedata.github.io"
-repository                   : "cronkitedata/mco510"
+repository                   : "cronkitedata/dj"
 twitter_username             : sarahcnyt
 github_username              : sarahcnyt
 minimal_mistakes_skin        : "default"
@@ -32,6 +32,7 @@ search                       : true
 
 ## custom variables for me -- test !
 cdocs                        : "https://cronkitedata.github.io/cronkite-docs"
+rdocs                        : "https://cronkitedata.github.io/rstudyguide"
 
 # Build settings
 markdown                     : kramdown

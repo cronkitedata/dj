@@ -7,7 +7,6 @@ collection: weeks
 class_date: 2020-01-21
 ---
 
-
 {{page.class_date | date: "%A, %B %-d"}}
 
 >Social scientists throw away outliers. Journalists write about them.
