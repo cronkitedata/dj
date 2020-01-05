@@ -17,13 +17,13 @@ Section 2, MIJ students: 4-5:50 TTh<br>
 Cronkite 404b
 
 
-Instructor: Sarah Cohen / sarah.h.cohen@asu.edu / 361 Cronkite<br>
-Student hours: Tuesday, Wednesday and Thursday when I'm not in class. Please Slack me to make sure I'll be there when it's convenient for you.<br>
-Course website: [https://cronkitedata.github.io/dj/](https://cronkitedata.github.io/dj/) <br>
-More resources: [https://cronkitedata.github.io/cronkite-docs/](https://cronkitedata.github.io/cronkite-docs/)
+**Instructor**: Sarah Cohen / sarah.h.cohen@asu.edu / 361 Cronkite<br>
+**Student hours**: Tuesday, Wednesday and Thursday when I'm not in class. Please Slack me to make sure I'll be there when it's convenient for you.<br>
+**Course website**: <https://cronkitedata.github.io/dj/> <br>
+**More resources** : <https://cronkitedata.github.io/cronkite-docs/> and <https://cronkitedata.github.io/rstudyguide/>
 
-<figure style="display:inline-block;float:right">
-  <img src="{{site.baseurl}}/assets/images/wormhoudt.png" style="width:700px">
+<figure style="display:inline-block;margin-bottom:1em;">
+  <img src="{{site.baseurl}}/assets/images/wormhoudt.png" style="width:100%;margin-bottom:0;">
   <figcaption>By Chris Wormhoudt via Unsplash</figcaption>
 </figure>
 
@@ -43,21 +43,24 @@ By the end of the semester, you should be able to:
 
 ### Required materials and texts
 
-There are no requried texts for this class. Most of the course materials are linked on this site. A full site of resources is at [https://cronkitedata.github.io/cronkite-docs](https://cronkitedata.github.io/cronkite-docs)
+There are no requried texts for this class. Most of the course materials are linked on this site. A full site of resources is at <https://cronkitedata.github.io/cronkite-docs>
 
 You should use your official ASU email for all work in this class, and check it regularly. Other materials include:
 
 * An ASU Slack account, which is automatically created for you in the course. This will be our primary method of communication.
 
-* A free copy of Microsoft Excel available in myapps.asu.edu and free software including R, R Studio and OpenRefine. You are not required to have your own computer. All of these are installed on our classroom computers. You can also use a free account at RStudio.cloud to use a web-based version of that software.
-
+You are not required to have your own computer or laptop - all of the software used in our course is available in the lab or online for free. The software is:
+* A free copy of Microsoft Excel available in myapps.asu.edu (not Google Sheets and not Outlook 365 online)
+* R and RStudio, both free community versions. There are instructions on our web site on how to install when we get there. Another option is RStudio.Cloud, a free online version that works just the same way.
+* OpenRefine. This will have limited availability in Cronkite but is free to download and use.
+*
 #### Recommended
 
-* A $25 Student membership in [Investigative Reporters and Editors](http://ire.org/join). This will help with tip sheets and a story archive including questionnaires filled out by the reporters. You will get to keep this rate for two years after you graduate.
+* A $25 Student membership in [Investigative Reporters and Editors](http://ire.org/join). This will help with tip sheets and a story archive including questionnaires filled out by the reporters. You will get to keep this rate for two years after you graduate. Many of the optional readings and tip sheets will require logging into your account.
 
-* "[Numbers in the Newsroom]((https://store.ire.org/collections/frontpage/products/numbers-in-the-newsroom-using-math-and-statistics-in-news-second-edition-e-version))", by Sarah Cohen, available through IRE.  $10.00 . There is a free pdf of the book on the Canvas site.
+* "[Numbers in the Newsroom]((https://store.ire.org/collections/frontpage/products/numbers-in-the-newsroom-using-math-and-statistics-in-news-second-edition-e-version))", by Sarah Cohen, available through IRE.  $10.00 . There is a free pdf of the book on the Canvas site under "Shared Resources".
 
-* "[The Art of Access: Strategies for Acquiring Public Records](https://www.amazon.com/Art-Access-Strategies-Acquiring-Records/dp/1506380700/ref=pd_sbs_14_t_0/141-5195764-7429116)", David Cullier and Charles N. Davis, 2nd edition (2018)
+* "[The Art of Access: Strategies for Acquiring Public Records](https://www.amazon.com/Art-Access-Strategies-Acquiring-Records/dp/1506380700/ref=pd_sbs_14_t_0/141-5195764-7429116)", David Cullier and Charles N. Davis, 2nd edition (2018). We won't be using this, but it's a great reference to have in your tool kit for public records.
 
 <p  style="page-break-after: always;"></p>
 ## Grading
@@ -82,20 +85,20 @@ Following all of the instructions and doing all assignments and preparation is "
 
 Doing well in this class means working slowly, methodically and consistently. In the words of of University of Nebraska professor Matt Waite:
 
-[![matt waite tweet]({{ "assets/images/mwtweet_edited.png" | relative_url}})](https://twitter.com/mattwaite/status/1166433967626686464)
+![matt waite tweet]({{ "assets/images/mwtweet-edited.png" | relative_url}}){:width="70%"}
 
 Daily work is made up of several distinct elements:
 
-* <ins>Labs and homework</ins>, which will be simply noted as "Complete" or "Incomplete". A complete assignment is one that is turned in on time at an acceptable level of quality, accuracy and completeness. (40%)
+<ins>Labs and homework</ins>, which will be simply noted as "Complete" or "Incomplete". A complete assignment is one that is turned in on time at an acceptable level of quality, accuracy and completeness. (40%)
 
-* <ins>Preparation for class</ins>, including attention to the reading and viewing and practicing on your own. (25%). <br><br> Preparation will take a different amount of time for each student each week. I expect you will spend about 6 hours outside of class on the assignments. Being prepared means:
+<ins>Preparation for class</ins>, including attention to the reading and viewing and practicing on your own. (25%). <br><br> Preparation will take a different amount of time for each student each week. I expect you will spend about 6 hours outside of class on the assignments. Being prepared means:
 
   *	Carefully reading or watching all of the assigned material and exploring some of the recommended pieces or links. Ideally, you'll discuss these readings on Slack before class begins.
   *	Following along on all of the tutorials and walkthroughs, and completing any self-assessments or quizzes.
 
-* <ins>Application of data skills and principles to journalism</ins>. This includes news judgment, ethics, accuracy, writing / presentation, and research/reporting when appropriate. We won't be doing full stories here, but it's still a journalism class. This matters as much as any technical skill you might learn. (20%)
+<ins>Application of data skills and principles to journalism</ins>. This includes news judgment, ethics, accuracy, writing / presentation, and research/reporting when appropriate. We won't be doing full stories here, but it's still a journalism class. This matters as much as any technical skill you might learn. (20%)
 
-* <ins>Teamwork, initiative, engagement, and attention to editorial direction</ins>. Offer your superpowers to the group and pay attention to suggestions to take your work to the next level. (15%)
+<ins>Teamwork, initiative, engagement, and attention to editorial direction</ins>. Offer your superpowers to the group and pay attention to suggestions to take your work to the next level. (15%)
 
 There are **three self-assessment assignments** in Canvas. In each of these assessments, you'll tell me how well you think you're doing on each of these elements and suggest a grade. Please arrange for a short visit with me within a day or two of turning in a self-assessment. I'll provide the grade for that portion of the daily work after we meet.
 
@@ -115,13 +118,13 @@ There will be two in-class tests - one using Excel and the other in R. These wil
 
 ### Mini-projects (150)
 
-**1 - Data walk (50)**:
+**1 - Data walk (50) [[details]( {{"data-walk" | relative_url }})]**:
 This is an exercise done in groups at the end of the semester, but you should be thinking of it as you move through the course. Together, you will design and create a small dataset of items that you collect by walking around. Examples include plants, garbage, construction sites, clothing, types of shops or bars or anything else that can be catalogued. By the end of the semester, you'll understand why this is harder than it sounds!
 
-**2 - Data hunt story idea (50)**:
+**2 - Data hunt story idea (50) [[details]( {{"data-hunt" | relative_url }}) ]**:
 This assignment will involve coming up with a story idea, then looking for some data sources that might inform it. You'll turn in a short story proposal that includes the idea, along with what records you would use to document it. This data could be something you plan to collect on your own from documents or interviews; databases already published on the Web or readily available; or datasets you would have to obtain under public records laws. The only requirement is that you should know how you will obtain the records and whether you have a right to them under the relavent public records law. Take this opportunity to do some leg work on a story you'd like to do in the future.
 
-**3 - Explainer (50)**: At some point over the semester, choose one thing you found interesting and create an explainer on it. The topic can be anything related to the course -- a technique in Excel or R, some problem you had to overcome during the class, or an intriguing dataset that we didn't explore. The medium is also flexible -- you might choose an R Markdown walkthrough or a video, for example. This is short and targeted -- a video tutorial of no more than 5 minutes, or a document of no more than about 3 pages. This is due anytime during the semester, but I suggest doing it as soon as you stumble on something that interests you, while it's still fresh in your mind.
+**3 - Explainer (50) [[details]({{ "explainer" | relative_url }})]**: At some point over the semester, choose one thing you found interesting and create an explainer on it. The topic can be anything related to the course -- a technique in Excel or R, some problem you had to overcome during the class, or an intriguing dataset that we didn't explore. The medium is also flexible -- you might choose an R Markdown walkthrough or a video, for example. This is short and targeted -- a video tutorial of no more than 5 minutes, or a document of no more than about 3 pages. This is due anytime during the semester, but I suggest doing it as soon as you stumble on something that interests you, while it's still fresh in your mind.
 
 <p  style="page-break-after: always;"></p>
 ## Course policies

@@ -3,11 +3,12 @@ title: "Explainer assignment"
 permalink: /explainer
 ---
 
-This mini-project involves identifying one thing related to class that you'd like to apply or understand better, and produce an explainer around it. This could be a technique in R that you found confusing, something you decided to teach yourself because you found an interesting example, or a dataset that we didn't really review in class that you'd like to explore, or something like it.
+This mini-project involves identifying one thing related to class that you'd like to apply or understand better, and produce an explainer around it. This could be a technique in R that you found confusing, something you decided to teach yourself because you found an interesting example, or a dataset that we didn't really review in class that you'd like to explore. Run the idea by me before you put too much work into it.
 
 The explainer mini-project is due at any time during the semester, with a drop-dead date at the end of the scheduled final exam period for your class. I understand you'll want as much experience under your belt as possible before you create this project, but I'd also encourage you to tackle it as soon as you find something you'd like to do.
 
-Some people call these projects "code-throughs", which refer to writing up a technique or a tutorial using code. You can do this in a video or in an R Markdown project. If you have another medium you'd prefer, please run it by me.
+Some people call these projects "code-throughs", which refer to writing up a technique or a tutorial using code. You can do this in a video, screencast or in an R Markdown project. You should get my approval if you want a different medium.
+
 
 ## Examples
 
@@ -17,6 +18,7 @@ My favorite example might be a little more advanced than what I'd expect from yo
 
 That intrique spawned [this walthrough](https://www.garrickadenbuie.com/blog/greatest-twitter-scheme/) on the greatest twitter scheme ever. ([Hint](https://youtu.be/fJ9rUzIMcZQ))
 
+If you have any desire to go into data journalism as a specialty, having a fantastic codethrough like this will go a long way in impressing potential employers. I promise.
 
 ### More examples
 

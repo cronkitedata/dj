@@ -1,15 +1,16 @@
 ---
 title: "The data walk"
 permalink: /data-walk
+toc: true
 ---
 
 Preliminary due date: Sunday, April 12. You'll do a lot of the work for this in teams during class time.
 
 This mini-project is inspired by the website, [Data Walking: A research project exploring data gathering and data visualization](http://datawalking.com) by David Hunter.
 
- There are lots of examples and instructions on that site, but we'll be adapting it to Phoenix, the downtown campus and on the kinds of data that you might collect for stories.  I'll post more about this later in the semester.
+ There are lots of examples and instructions on that site, but we'll be adapting it to Phoenix, the downtown campus and on the kinds of data that you might collect for stories.  I'll post more about this later in the semester, but the basics are laid out below.
 
-### Documenting everyday life in data
+## Documenting everyday life in data
 
 One of the most famous examples of documenting your everyday life in data comes from Stefanie Posavic and Giorgia Lupi. They're both designers, who met each other and decided to create post cards every week visualizing something they counted. The result is a book of stunning everyday databases and a website both called "[Dear Data](http://www.dear-data.com/theproject)."
 
