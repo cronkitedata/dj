@@ -68,7 +68,7 @@ Week<br>num | Date| Topics | Deadlines
 11 | Mar. 31-Apr. 2 | Open source investigations | Su 4/5: [Story memo]({{"story-memo" | relative_url }})
 12 | Apr. 7-9  |  Building your own dataset; the data walk |  Su Apr 12: Data walk
 13 | Apr. 14-16 | Scraping & API's ; a data hunt workshop |
-14 | Apr. 21-23 | Students' choice | Su Apr 16: Dataset idea
+14 | Apr. 21-23 | Students' choice | Su Apr 19: Dataset idea
 15 | Apr. 28-30 | Wrap up & where to go from here  | Thu: Final self-assessment
 
 **The explainer assignment is in lieu of a final exam and is due when your final exam would end. The specific date and time will be on the Canvas assignment**

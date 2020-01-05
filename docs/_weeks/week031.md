@@ -17,7 +17,7 @@ publish: true
 
 * Sunday, Jan. 26: Filter and pivot table homework on Canvas
 * Tuesday, Jan. 28: Optional -- take the practice quiz on Canvas testing yourself on tidy data principles.
-* Thursday, Jan. 30: Choose one of the stories we don't go over in class and comment on a single element once your read or listen to it like a reporter and writer.
+* Thursday, Jan. 30: Choose one of the stories we don't go over in class and post a comment on the #stories Slack channel.
 
 ## In class
 
@@ -41,15 +41,9 @@ The idea of "tidy data" is among the most important concepts we'll cover this se
 
 ### Reading the data-driven story
 
-From now on, we'll be reading and viewing or listening to actual stories, usually three or four a week. Try to look at them like a writer, not a casual audience member. Ask yourself:
+From now on, we'll be reading and viewing or listening to actual stories, usually three or four a week. Try to look at them like a writer, not a casual audience member.
 
-* Where might the reporters have found their key examples, and what made them good characters or illustrations of the larger issue? Could they have come from the data?
-* What do you think came first -- a narrative single example that was broadened by data, or a big idea that was illustrated with characters?
-* What records were used? Were they public records, leaks, or proprietary data?  How  might you localize or adapt these methods to find your own stories?
-* What methods did they use? Did they do their own testing, use statistical analysis, or geographic methods? You won't always know, but look for a methodology section in each story.
-* Pick out the key findings (usually in the nut graf or in a series of bullets after the opening chapter): are they controverial? How might they have been derived? What standards are they measuring against? Have they given critics their due?
-* How effective is the writing and presentation of the story? What makes it compelling journalism rather than a dry study? How might you have done it differently? Is a video story better told in text, or would a text story have made a good documentary? Are the visual elements well integrated? Does the writing draw you in and keep you reading? Think about structure, story length, entry points and graphics all working together.
-* Are you convinced? Are there holes or questions that didn't get addressed?
+Before examining this week's pieces, review the [tips on the course resources site]({{site.cdocs}}/general) on both how to look at data for news, and how to look at stories as if you were going to do them yourself.
 
 This week's stories:
 
