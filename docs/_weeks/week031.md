@@ -11,12 +11,11 @@ publish: true
 
 > Tidy datasets are all alike but every messy dataset is messy in its own way.
 >
-> <cite>Hadley Wickham, with apologies to Leo Tolstoy</cite>
+> <cite>Hadley Wickham (again), with apologies to Leo Tolstoy</cite>
 
 ## Due this week
 
 * Sunday, Jan. 26: Filter and pivot table homework on Canvas
-* Tuesday, Jan. 28: Optional -- take the practice quiz on Canvas testing yourself on tidy data principles.
 * Thursday, Jan. 30: Choose one of the stories we don't go over in class and post a comment on the #stories Slack channel.
 
 ## In class

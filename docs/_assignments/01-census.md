@@ -14,3 +14,12 @@ Before you tackle it, try to take a look at a few daily stories that were done o
 * "[Arizona’s average age still below U.S., but it’s catching up fast](https://cronkitenews.azpbs.org/2019/06/21/arizonas-average-age-still-below-u-s-but-its-catching-up-fast/), by Miranda Faulkner, Cronkite News
 
 Notice how these authors found one theme to explore in a simple population release and stuck to those themes.  Think about other trends that might be interesting in a data set that include population changes, births, deaths and migration over time by county.
+
+Remember that we're looking for stories, not studies. This list of possible newsworthy items is adapted Paul Bradshaw's “[Data Journalism Heist](https://leanpub.com/DataJournalismHeist)”:
+
+* Compare the claims of powerful people and institutions against facts
+* Report on unexpected highs and lows (of change, or of some other characteristic)
+* Look for outliers -- individual values that buck a trend seen in the rest
+* Verify or bust some myths
+* Find signs of distress, happiness or dishonesty.
+* Uncover newly discovered long-term trends

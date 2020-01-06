@@ -45,15 +45,14 @@ By the end of the semester, you should be able to:
 
 There are no requried texts for this class. Most of the course materials are linked on this site. A full site of resources is at <https://cronkitedata.github.io/cronkite-docs>
 
-You should use your official ASU email for all work in this class, and check it regularly. Other materials include:
+You should use your official ASU email for all work in this class, and check it regularly. You will also need to use your ASU Slack account as our our primary method of communication -- it's linked off of your MY ASU home page.
 
-* An ASU Slack account, which is automatically created for you in the course. This will be our primary method of communication.
+You are not required to have your own computer or laptop - all of the software used in our course is available in the lab or online for free. If you prefer to use your own equipment, you'll need:
 
-You are not required to have your own computer or laptop - all of the software used in our course is available in the lab or online for free. The software is:
 * A free copy of Microsoft Excel available in myapps.asu.edu (not Google Sheets and not Outlook 365 online)
 * R and RStudio, both free community versions. There are instructions on our web site on how to install when we get there. Another option is RStudio.Cloud, a free online version that works just the same way.
 * OpenRefine. This will have limited availability in Cronkite but is free to download and use.
-*
+
 #### Recommended
 
 * A $25 Student membership in [Investigative Reporters and Editors](http://ire.org/join). This will help with tip sheets and a story archive including questionnaires filled out by the reporters. You will get to keep this rate for two years after you graduate. Many of the optional readings and tip sheets will require logging into your account.
@@ -65,7 +64,7 @@ You are not required to have your own computer or laptop - all of the software u
 <p  style="page-break-after: always;"></p>
 ## Grading
 
-This course will use a point system adding up to 1000 points for the semester.
+This course will use a point system adding up to 1000 points for the semester. Following Cronkite guidelines, the final grade will not be rounded up.
 
 * Daily work: 500 points.
 * Exams (Excel & R) : 200 points
@@ -77,7 +76,7 @@ This course will use a point system adding up to 1000 points for the semester.
 
 
 **Grading philosphy**:<br>
-Following all of the instructions and doing all assignments and preparation is "B" work. You can improve on this by going beyond what's asked of you: suprise or delight me with your special insight, extraordinary effort, imaginative use of data, or professional level writing or presentation.
+Meeting all of the requirements by following instructions, completing your work on time and preparing for class is "B" work. You can improve on this by going beyond what's specifically asked of you: suprise or delight me with your special insight, extraordinary effort, imaginative use of data, or professional level writing or presentation.
 {: .notice--info}
 
 
@@ -89,61 +88,50 @@ Doing well in this class means working slowly, methodically and consistently. In
 
 Daily work is made up of several distinct elements:
 
-<ins>Labs and homework</ins>, which will be simply noted as "Complete" or "Incomplete". A complete assignment is one that is turned in on time at an acceptable level of quality, accuracy and completeness. (40%)
+<ins>Labs and homework</ins>, which will be marked "Complete" or "Incomplete". A complete assignment is one that is turned in on time at an acceptable level of quality, accuracy and completeness. (40%)
 
-<ins>Preparation for class</ins>, including attention to the reading and viewing and practicing on your own. (25%). <br><br> Preparation will take a different amount of time for each student each week. I expect you will spend about 6 hours outside of class on the assignments. Being prepared means:
+<ins>Preparation for class</ins>(25%). Preparing will take a different amount of time for each student each week. I expect you to spend, on average, about 6 hours outside of class each week. Preparation means:
 
-  *	Carefully reading or watching all of the assigned material and exploring some of the recommended pieces or links. Ideally, you'll discuss these readings on Slack before class begins.
+  *	Carefully reading or watching all of the assigned material and exploring some of the recommended pieces or links.
   *	Following along on all of the tutorials and walkthroughs, and completing any self-assessments or quizzes.
 
 <ins>Application of data skills and principles to journalism</ins>. This includes news judgment, ethics, accuracy, writing / presentation, and research/reporting when appropriate. We won't be doing full stories here, but it's still a journalism class. This matters as much as any technical skill you might learn. (20%)
 
 <ins>Teamwork, initiative, engagement, and attention to editorial direction</ins>. Offer your superpowers to the group and pay attention to suggestions to take your work to the next level. (15%)
 
-There are **three self-assessment assignments** in Canvas. In each of these assessments, you'll tell me how well you think you're doing on each of these elements and suggest a grade. Please arrange for a short visit with me within a day or two of turning in a self-assessment. I'll provide the grade for that portion of the daily work after we meet.
-
-In Cronkite News, you get no credit for that whole part of the semester if you miss the self-assessment deadline. I'm not going to be that strict -- if you choose not to turn it in on time, I'll assign the grade without your input. You also won't get one-on-one feedback on your work. This is done for your benefit. Take advantage of it.
-
-These grades will be averaged based on the number of weeks they represent. I reserve the right to raise the final number of points in this area if I determine that you have shown steady and significant improvement over the course of the semester.
+There are **three self-assessment assignments** in Canvas. In each of these assessments, you'll tell me how well you think you're doing on each of these elements and suggest a grade. Please arrange for a short visit with me within a day or two of turning in a self-assessment. I'll provide the grade for that portion of the daily work after we meet. I may raise number of points in this area if I determine that you have shown steady and significant improvement over the course of the semester.
 
 ### Story memo (150) [details]({{ "story-memo" | relative_url}})
 
 You will have a choice of several data sets that could be used in stories. Your memo will involve analyzing the data, identifying a potential story, and writing a story pitch complete with anecdotes and a reporting plan.
 
-If you know of a dataset that you might prefer to use for this project, please let me know by the end of January and I'll consider it. I want to make sure it's a good fit for the project's goals.
+Please let me know by the end of January if you already know of a dataset you would prefer to use for this project. You are welcome to use a dataset that would be useful in another class or project. I just want to make sure it's a good fit for the project's goals.
 
 ### Exams (200)
 
-There will be two in-class tests - one using Excel and the other in R. These will be open-book, open-Internet tests that start during class and will be due 24 hours after it begins. If you keep up with the work, these are not difficult exams. Many people finish them before class ends.
+There will be two in-class tests - one for Excel and the other for R. These will be open-book, open-Internet tests that start during class and will be due 24 hours after it begins. If you keep up with the work, these are not difficult exams. Many people finish them before class ends.
 
 ### Mini-projects (150)
 
 **1 - Data walk (50) [[details]( {{"data-walk" | relative_url }})]**:
-This is an exercise done in groups at the end of the semester, but you should be thinking of it as you move through the course. Together, you will design and create a small dataset of items that you collect by walking around. Examples include plants, garbage, construction sites, clothing, types of shops or bars or anything else that can be catalogued. By the end of the semester, you'll understand why this is harder than it sounds!
+This is a short project done in groups toward the end of the semester, but you should be thinking of it as you move through the course. Together, you will design and create a small dataset of items that you collect by walking around. Examples include plants, garbage, construction sites, clothing, types of shops or bars or anything else that can be catalogued. By the end of the semester, you'll understand why this is harder than it sounds!
 
 **2 - Data hunt story idea (50) [[details]( {{"data-hunt" | relative_url }}) ]**:
-This assignment will involve coming up with a story idea, then looking for some data sources that might inform it. You'll turn in a short story proposal that includes the idea, along with what records you would use to document it. This data could be something you plan to collect on your own from documents or interviews; databases already published on the Web or readily available; or datasets you would have to obtain under public records laws. The only requirement is that you should know how you will obtain the records and whether you have a right to them under the relavent public records law. Take this opportunity to do some leg work on a story you'd like to do in the future.
+In this project, you'll propose a story idea and find some data sources that might inform it. This data could be readily available or something you would have to obtain under public records laws. The only requirement is that you should know how you will obtain the records and whether you have a right to them under the relavent public records law. Take this opportunity to do some leg work on a story you'd like to do in the future.
 
-**3 - Explainer (50) [[details]({{ "explainer" | relative_url }})]**: At some point over the semester, choose one thing you found interesting and create an explainer on it. The topic can be anything related to the course -- a technique in Excel or R, some problem you had to overcome during the class, or an intriguing dataset that we didn't explore. The medium is also flexible -- you might choose an R Markdown walkthrough or a video, for example. This is short and targeted -- a video tutorial of no more than 5 minutes, or a document of no more than about 3 pages. This is due anytime during the semester, but I suggest doing it as soon as you stumble on something that interests you, while it's still fresh in your mind.
+**3 - Explainer (50) [[details]({{ "explainer" | relative_url }})]**: At some point over the semester, choose one thing you found interesting and create an explainer on it. The topic can be anything related to the course. The medium is also flexible -- you might choose an R Markdown walkthrough or a video, for example. This is short and targeted -- a video tutorial of no more than 5 minutes, or a document of no more than about 3 pages. This is due anytime during the semester, but I suggest doing it as soon as you stumble on something that interests you, while it's still fresh in your mind.
 
 <p  style="page-break-after: always;"></p>
 ## Course policies
 
+> 90% of life is just showing up
 >
-90% of life is just showing up
->
-> -- Woody Allen
+> <cite>Woody Allen</cite>
 {: .maroon}
 
-The minimal requirement is to arrive on time, prepared, and ready to work.
+The minimal requirement is to arrive on time, prepared, and ready to work. Put your phone away as soon as you get to class. Refrain from eating, napping, using social media, shopping, or working on something else. Be polite to your classmates and any guests by respecting their time.
 
-Put your phone away as soon as you get to class.
-
-Refrain from eating, napping, using social media, shopping.
-
-If you are having an easy time then spend the class helping others who aren't or ask me for something more challenging.
-
-If you can't even fake being engaged and active in class then please leave for the day. I'm easily distracted and might ask you to excuse yourself for the rest of class if I have to stop everything and remind you to put away your phone or close your computer.
+If you can't even fake being engaged and active in class then please leave class rather than distract everyone else.
 
 ### Attendance and deadlines
 
