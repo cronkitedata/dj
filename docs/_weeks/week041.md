@@ -45,7 +45,7 @@ Sunday, Feb. 9: 1st self-assessment on Canvas
 
 * Review of the Excel exam
 * Let's talk stats! There are a couple of very short readings below.
-* A [gentle introduction to programming]({{site.rdocs}}/00-programming.html) and coding
+* A [gentle introduction to programming]({{site.rdocs}}/A02-programming) and coding
 * Lab (if there's time): Write your own algorithm.
 
 ### Stats reading
@@ -55,4 +55,4 @@ Sunday, Feb. 9: 1st self-assessment on Canvas
 
 * [Four years in a row, police nationwide fatally shoot nearly 1,000 people - The Washington Post](https://www.washingtonpost.com/investigations/four-years-in-a-row-police-nationwide-fatally-shoot-nearly-1000-people/2019/02/07/0cb3b098-020f-11e9-9122-82e98f91ee6f_story.html). How well did they describe uncertainty?
 
-Market manipulation? [“There Is Definite Hanky-Panky Going On”: The Fantastically Profitable Mystery of the Trump Chaos Trades | Vanity Fair](https://www.vanityfair.com/news/2019/10/the-mystery-of-the-trump-chaos-trades) . What else might he need to prove something more than coincidence?
+Market manipulation? [“There Is Definite Hanky-Panky Going On”: The Fantastically Profitable Mystery of the Trump Chaos Trades"](https://www.vanityfair.com/news/2019/10/the-mystery-of-the-trump-chaos-trades), Vanity Fair. What else might he need to prove something more than coincidence?
