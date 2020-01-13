@@ -24,8 +24,8 @@ Keep a copy of this dataset when we're done -- we'll be coming back to it at som
 
 ## Due this week
 
-Friday: Academic integrity pledge on Canvas; download and sign into the Slack workspace for your section, linked off of My ASU.
-Sunday, Jan. 19: Finding stories in Arizona Census data: [exercise]({{site.cdocs}}/excel/practice/01-excel-azpop-exercise) \| [data]({{site.cdocs}}/assets/data/xlexamples/arizona_popchange_2018.xlsx), with data diary, on Canvas.
+* Friday: Academic integrity pledge on Canvas; download and sign into the Slack workspace for your section, linked off of My ASU.
+* Sunday, Jan. 19: Finding stories in Arizona Census data: [exercise]({{site.cdocs}}/excel/practice/01-excel-azpop-exercise) \| [data]({{site.cdocs}}/assets/data/xlexamples/arizona_popchange_2018.xlsx), with data diary, on Canvas.
 
 ## Preparation
 
