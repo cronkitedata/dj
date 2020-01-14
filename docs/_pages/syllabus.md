@@ -18,9 +18,11 @@ Cronkite 404b
 
 
 **Instructor**: Sarah Cohen / sarah.h.cohen@asu.edu / 361 Cronkite<br>
+
 **Student hours**: Tuesday, Wednesday and Thursday when I'm not in class. Please Slack me to make sure I'll be there when it's convenient for you.<br>
-**Course website**: <https://cronkitedata.github.io/dj/> <br>
-**More resources** : <https://cronkitedata.github.io/cronkite-docs/> and <https://cronkitedata.github.io/rstudyguide/>
+
+**Course website**: <https://cronkitedata.github.io/dj/>. This is where you'll find all of the material for class -- readings, class outlines, details on assignments, etc.
+
 
 <figure style="display:inline-block;margin-bottom:1em;">
   <img src="{{site.baseurl}}/assets/images/wormhoudt.png" style="width:100%;margin-bottom:0;">
@@ -43,7 +45,9 @@ By the end of the semester, you should be able to:
 
 ### Required materials and texts
 
-There are no requried texts for this class. Most of the course materials are linked on this site. A full site of resources is at <https://cronkitedata.github.io/cronkite-docs>
+There are no required texts for this class. Most of the course materials are linked on this site (<https://cronkitedata.github.io/dj>). 
+
+Most days in class you'll be referred to the [data journalism resource pages](https://cronkitedata.github.io/cronkite-docs), or the  [R Study Guide](https://cronkitedata.github.io/rstudyguide). Those exist to help you, but you're not required to go through them unless assigned.
 
 You should use your official ASU email for all work in this class, and check it regularly. You will also need to use your ASU Slack account as our our primary method of communication -- it's linked off of your MY ASU home page.
 
