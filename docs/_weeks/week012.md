@@ -17,10 +17,9 @@ class_date: 2020-01-14
 * Ethics and accuracy in data journalism part one
 * Introducing the data diary
 * Understanding data types: numbers, dates and text
-* Lab: Calculating speeds from dates and times using 25,000 of the Sun-Sentinel's 72,000 records ([data file]({{site.cdocs}}/assets/data/xlexamples/cop-transponders.xlsx) | [source](http://databases.sun-sentinel.com/news/broward/ftlaudCopSpeeds/ftlaudCopSpeeds_list.php) )
-
-Keep a copy of this dataset when we're done -- we'll be coming back to it at some point.
-
+**UPDATE 1/14**
+* Lab: An Excel reboot using a city budget, to be submitted in Canvas at the end of class ([data file]({{site.cdocs}}/assets/data/xlexamples/phx_budget_summary.xlsx) \| [tutorial]({{site.cdocs}}/excel/xlguides/xl-formulas) )
+* Demo: Calculating speeds from dates and times using 25,000 of the Sun-Sentinel's 72,000 records ([data file]({{site.cdocs}}/assets/data/xlexamples/cop-transponders.xlsx) | [source](http://databases.sun-sentinel.com/news/broward/ftlaudCopSpeeds/ftlaudCopSpeeds_list.php) )
 
 ## Due this week
 
