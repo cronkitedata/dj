@@ -25,7 +25,7 @@ The weekly list of tasks under "Preparation" are shown in a suggested order.<br>
 *  Introductions - you and me
 *  Review of surveys and goals for the semester
 *  Review of boot camp sessions
-*  Lab: An Excel reboot using a city budget, to be submitted in Canvas at the end of class ([data file]({{site.cdocs}}/assets/data/xlexamples/phx_budget_summary.xlsx/) \| [tutorial]({{site.cdocs}}/excel/xlguides/xl-formulas) )
+*  Lab: An Excel reboot using a city budget, to be submitted in Canvas at the end of class ([data file]({{site.cdocs}}/assets/data/xlexamples/phx_budget_summary.xlsx) \| [tutorial]({{site.cdocs}}/excel/xlguides/xl-formulas) )
 
 ## Due this week
 
