@@ -15,11 +15,19 @@ Before you tackle it, try to take a look at a few daily stories that were done o
 
 Notice how these authors found one theme to explore in a simple population release and stuck to those themes.  Think about other trends that might be interesting in a data set that include population changes, births, deaths and migration over time by county.
 
+Sometimes the numbers are hard to describe. One example is when some things go up and others go down.
+
+"[Why Your State Is Growing or Stalling or Shrinking](https://www.nytimes.com/2020/01/09/upshot/american-population-slowdown.html)", in The New York Times by Rob Gebeloff, Jan. 9, 2020, is a good example of how to deal with it. It's not confusing when he writes about it.  This is also a great example of finding a story by looking at previously unreported trends. Here's an example paragraph:
+
+> In Michigan, for example, where 190,000 immigrants arrived, the population over all grew by 100,000, meaning the state would have shrunk without immigration. New Jersey had a net gain of 90,000 residents, bolstered by the addition of nearly 300,000 residents from overseas.
+
+
 Remember that we're looking for stories, not studies. This list of possible newsworthy items is adapted Paul Bradshaw's “[Data Journalism Heist](https://leanpub.com/DataJournalismHeist)”:
 
-* Compare the claims of powerful people and institutions against facts
-* Report on unexpected highs and lows (of change, or of some other characteristic)
+* Compare the claims of powerful people and institutions against facts -- the classic investigative approach.
+* Report on *unexpected* highs and lows (of change, or of some other characteristic)
 * Look for outliers -- individual values that buck a trend seen in the rest
 * Verify or bust some myths
-* Find signs of distress, happiness or dishonesty.
-* Uncover newly discovered long-term trends
+* Find signs of distress, happiness or dishonesty or any other emotion.
+* Uncover *new* or *under-reported* long-term trends.
+* Find data suggesting your area is *the same* or *different* than most others of its kind.
