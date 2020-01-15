@@ -3,7 +3,7 @@ title: "1.2 - Data types, and a letter to your future self"
 layout: single
 excerpt: "The data diary and speeding cops. In every project you have at least one other collaborator: future-you."
 collection: weeks
-class_date: 2020-01-14
+class_date: 2020-01-16
 ---
 
 {{page.class_date | date: "%A, %B %-d"}}
@@ -21,7 +21,7 @@ class_date: 2020-01-14
 **UPDATE 1/14**
 
 * Lab: An Excel reboot using a city budget, to be submitted in Canvas at the end of class [data file]({{site.cdocs}}/assets/data/xlexamples/phx_budget_summary.xlsx) \| [tutorial]({{site.cdocs}}/excel/xlguides/xl-formulas)
-* Demo: Calculating speeds from dates and times using 25,000 of the Sun-Sentinel's 72,000 records [data file]({{site.cdocs}}/assets/data/xlexamples/cop-transponders.xlsx) \| [source](http://databases.sun-sentinel.com/news/broward/ftlaudCopSpeeds/ftlaudCopSpeeds_list.php) 
+* Demo: Calculating speeds from dates and times using 25,000 of the Sun-Sentinel's 72,000 records [data file]({{site.cdocs}}/assets/data/xlexamples/cop-transponders.xlsx) \| [source](http://databases.sun-sentinel.com/news/broward/ftlaudCopSpeeds/ftlaudCopSpeeds_list.php)
 
 ## Due this week
 
