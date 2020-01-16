@@ -5,7 +5,7 @@ title: "01 - Stories in Census population data"
 due_date: 2020-01-19
 ---
 
-Do the [tutorial on working with Census data]({{site.cdocs}}/excel/practice/01-excel-azpop-exercise) from our course resources site. Turn in your final spreadsheet, a data diary and your story lede.
+**Do the [tutorial on working with Census data]({{site.cdocs}}/excel/practice/01-excel-azpop-exercise)** from our course resources site. Turn in your final spreadsheet, a data diary and your story lede.
 
 Before you tackle it, try to take a look at a few daily stories that were done off of Census releases. Here are a few examples (not all of them from the exact same dataset that you have.):
 
