@@ -26,7 +26,7 @@ class_date: 2020-01-16
 ## Due this week
 
 * Friday: Academic integrity pledge on Canvas; download and sign into the Slack workspace for your section, linked off of My ASU.
-* Sunday, Jan. 19: Finding stories in Arizona Census data: [assignment]{{ "assignments/01-census" | relative_url }}  \| [tutorial]({{site.cdocs}}/excel/practice/01-excel-azpop-exercise) \| [data]({{site.cdocs}}/assets/data/xlexamples/arizona_popchange_2018.xlsx), with data diary, on Canvas.
+* Sunday, Jan. 19: Finding stories in Arizona Census data: [assignment]({{ "assignments/01-census" | relative_url }})  \| [tutorial]({{site.cdocs}}/excel/practice/01-excel-azpop-exercise) \| [data]({{site.cdocs}}/assets/data/xlexamples/arizona_popchange_2018.xlsx), with data diary, on Canvas.
 
 ## Preparation
 

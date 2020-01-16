@@ -22,7 +22,7 @@ class_date: 2020-01-21
 
 ## Due this week
 
-* Sunday, Jan. 19: [Census assignment]({{ "assignments/01-census" | relative_url }}) | [tutorial] {{site.cdocs/excel/practice/01-excel-azpop-exercise }} \| [data]({{site.cdocs}}/assets/data/xlexamples/arizona_popchange_2018.xlsx)
+* Sunday, Jan. 19: [Census assignment]({{ "assignments/01-census" | relative_url }}) \| [tutorial]({{site.cdocs/excel/practice/01-excel-azpop-exercise }}) \| [data]({{site.cdocs}}/assets/data/xlexamples/arizona_popchange_2018.xlsx)
 * Sunday, Jan. 26: [911 calls assignment]({{ "assignments/02-calls-for-service" | relative_url }})
 
 ## Preparation
