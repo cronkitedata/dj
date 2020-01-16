@@ -21,7 +21,7 @@ Data used in class:
 
 ## Due this week
 
-Sunday, Jan. 26: Filter, sort and group on one week of Phoenix police calls for service data.
+Sunday, Jan. 26: [Assignment to filter, sort and group]({{ "assignments/02-calls-for-service" | relative_url }}) on one week of Phoenix police calls for service data.
 
 <!--
 Put Google doc here if I want to have them test themselves on tidy data.
