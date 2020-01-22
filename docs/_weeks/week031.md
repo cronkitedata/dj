@@ -33,7 +33,7 @@ publish: true
 
 ### Tidy data
 
-* Spend some time on the the [tidy data chapter]({{site.cdocs}}/excel/xlguides/xl-tidydata) of our web site. I'll post a self-assessment on Canvas so you can quiz yourself after you read it.
+* Spend some time on the the [tidy data chapter]({{site.cdocs}}/excel/xlguides/xl-tidydata) of our web site. Try to think about it in terms of the datasets you've already seen. Is the NEA data "tidy"? Why? 
 
 The idea of "tidy data" is among the most important concepts we'll cover this semester. Understanding the principles well will help you imagine how a dataset SHOULD look, and what you can do with it if it does. Bring questions and comments about it to class -- we'll be coming back to this regularly.
 {: .notice--info}
