@@ -15,7 +15,7 @@ toc: true
 * Creating a crosstab
 
 Data used in class:
-* Returning to the [NEA data]({{site.cdocs}}/data/xlexamples/nea_grants.xlsx) from Tuesdsay.
+* Returning to the [NEA data]({{site.cdocs}}/assets/data/xlexamples/nea_grants.xlsx) from Tuesdsay.
 * St. Anthony, Minn. [police stops]( {{site.cdocs}}/assets/data/xlexamples/saintanthony_police.xlsx)
 
 
