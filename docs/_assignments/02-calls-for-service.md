@@ -24,6 +24,35 @@ Finally, think of a question that can't be answered by this dataset.
 
 I don't need a copy of the spreadsheet or the data diary, but keep it on hand in case I have questions.
 
+### Processing notes
+
+The raw data from the open government site was read directly into R, with 2.8 million 911 calls since 2016.
+
+The data is already formatted as a "data table" in Excel.
+
+#### Converting dates
+
+The original date in the file wasn't formatted in a way that automatically converts from text to date/time.  I converted the data type, then filtered for any calls between 11/24 and 11/30 to create the Thanksgiving cut.
+
+Exporting this to Excel created a problem: It converted the calcuated date-time to the UTC time, not Mountain Standard Time. I used a formula to subtract 7 hours to each call date-time to convert it back using the TIME function.
+
+Once I checked the data to make sure the dates and times were accurate in our time zone, I deleted the original text column of the date and time.
+
+The call date is formatted as a day of week with the date.
+
+#### Reference days of week
+
+You don't have a way to know whether the distribution over days of the week is unusual. Here is the the average number of calls by day of week, calculated in R by **grouping** by the day of the week, and **counting** the number of calls and the number of weeks for each day of the week for the full year of 2019. (Please don't ask about why Tuesday has 53 weeks - I don't quite understand it. I just know it happens even though 2019 wasn't a leap year.)
+
+Day | # calls | # weeks | Avg # per week
+--- | --- | --- | ---
+Sun	92,938	52	1,787
+Mon	99,170	52	1,907
+Tue	98,977	53	1,867
+Wed	97,466	52	1,874
+Thu	97,834	52	1,881
+Fri	102,271	52	1,967
+Sat	98,701	52	1,898
 
 ### Grids
 
