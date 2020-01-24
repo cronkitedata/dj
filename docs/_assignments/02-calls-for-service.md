@@ -26,7 +26,7 @@ Using what you know about sorting, filtering and grouping with pivot tables, ans
 
 5. Now try to ask a few questions on your own -- try to think of things that might lead to a story. You only need to turn in one question and its answer, but feel free to do more than one.
 
-6. Finally, think of a question that can't be answered by this dataset. 
+6. Finally, think of a question that can't be answered by this dataset.
 
 I don't need a copy of the spreadsheet or the data diary, but keep it on hand in case I have questions.
 
@@ -46,7 +46,7 @@ Sat	| 98,701 | 52 | 1,898
 
 ### Grids
 
-Some, but not all, of the calls for service are located in the Phoenix police department's grid system. But it's less useful than you'd think -- if a crime falls on a border, they don't assign a grid. This is really unfortunate for anyone trying to work with this geographically. For example, if a call comes from Central Avenue, it won't be included in a grid.
+Some, but not all, of the calls for service are located in the Phoenix police department's grid system. But it's less useful than you'd think -- if a crime falls on a border, they don't assign a grid. This is really unfortunate for anyone trying to work with this geographically. This happens most frequently when the call went to an intersection rather than an address, and that intersection was on a grid border.
 
 That said, understanding the grids will will help you if you want to narrow your work to one neighborhood or area using filters or find high-crime areas. I have inquired about getting an electronic copy of the grid map, but for now think of it as a checkerboard overlaid on top of Phoenix.
 
