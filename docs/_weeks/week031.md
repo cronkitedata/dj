@@ -16,7 +16,7 @@ publish: true
 ## Due this week
 
 * Sunday, Jan. 26: Filter and pivot table homework on Canvas
-* Thursday, Jan. 30: Choose one of the stories we don't go over in class and post a comment on the #stories Slack channel.
+
 
 ## In class
 
@@ -33,7 +33,7 @@ publish: true
 
 ### Tidy data
 
-* Spend some time on the the [tidy data chapter]({{site.cdocs}}/excel/xlguides/xl-tidydata) of our web site. Try to think about it in terms of the datasets you've already seen. Is the NEA data "tidy"? Why? 
+* Spend some time on the the [tidy data chapter]({{site.cdocs}}/excel/xlguides/xl-tidydata) of our web site. Try to think about it in terms of the datasets you've already seen. Is the NEA data "tidy"? Why?
 
 The idea of "tidy data" is among the most important concepts we'll cover this semester. Understanding the principles well will help you imagine how a dataset SHOULD look, and what you can do with it if it does. Bring questions and comments about it to class -- we'll be coming back to this regularly.
 {: .notice--info}
