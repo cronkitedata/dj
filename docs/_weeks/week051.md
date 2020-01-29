@@ -8,17 +8,24 @@ publish: true
 ---
 {{page.class_date | date: "%A, %B %-d"}}
 
+You'll need to either install R and R Studio on your computer, or sign up for a free rstudio.cloud account to do the homework for this week. They're the same thing -- one works in the cloud, the other on your computer. See the [Introduction to R and R Studio]({{site.rdocs}}/011-r-install) for instructions on what it takes.
+
 ## In class
 
+### Tuesday
 
+* An introduction to R - we'll go through getting used to the screen and all of the elements of it together.
+* An introduction to R projects and R Markdown as a way to hold all of your work on a project, negating much of the need for a detailed data diary.
+* Lab: Create your own R Markdown document
+
+### Thursday
+* Story workshop on disparities in traffic stops
+* An introduction to converting your Excel work to R.
 
 ## Due this week
 
-* The R Markdown exercise at the end of that chapter in the [R Study Guide]({{site.rdocs}}). See how far you can get. Don't spend more than 1 hour on it.
-(Some folks may be able to do it more quickly.) [Here's mine](...) as a zipped R Studio project. Unzip and then open the project in R Studio.
-
-* Write out an algorithm for something you do all the time. This isn't programmed in a language -- just write down all the steps. Include a few decision points, such as the "check ingredients" in our example from last week. It can be as simple as making coffee or brushing your teeth.
-
+* Write out an algorithm for something you do all the time. This isn't programmed in a language -- just write down all the steps. Include a few decision points, such as the "check ingredients" in our example from last week. It can be as simple as making coffee or brushing your teeth.  (Due Sunday, Feb. 9)
+* Take the swirl() lesson under [Exercises]({{site.rdocs}}/011-r-install.html#resources-and-exercises) in the reading). You don't have to turn anything in.
 
 ## Preparation
 
@@ -26,7 +33,6 @@ publish: true
 
 * A [gentle introduction to programming]({{site.rdocs}}/A02-programming) and coding. This just reviews what we were doing in class on Thursday. You might not need it.
 * First two chapters of the [R Study Guide]({{site.rdocs}}): "An R and R Studio Tour" and "R Markdown"
-* Take the first swirl() lesson (under Excercises in the reading).
 
 ### Reading
 
