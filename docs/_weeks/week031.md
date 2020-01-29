@@ -28,6 +28,12 @@ publish: true
 
 * Catch-up day and review for Excel exam. Bring your questions, comments and complaints to class.
 
+Practice data we can use in class, and you can use in preparation:
+* [FBI Crime rates, 2016]({{site.cdocs}}/excel/practice/03-excel-rates)
+* [ASU enrollment data]({{site.cdocs}}/assets/data/xlexamples/asu_enrollment.xlsx)
+* [Arizona sex registered sex offenders]({{site.cdocs}}/assets/data/xlexamples/arizona_sexoffenders.xlsx)
+* [Salaries of MLB players]({{site.cdocs}}/assets/data/xlexamples/MLB2011.xlsx)
+
 ## Preparation
 (all for Tuesday)
 
