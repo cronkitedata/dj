@@ -40,19 +40,22 @@ Your Excel exam will take up the whole period. It is open book, open Internet, o
 ## Due this week
 
 Sunday, Feb. 9: 1st self-assessment on Canvas
+If you plan to use R on your own laptop, please follow the instructions in [Introduction to R and R Studio]({{site.rdocs}}/011-r-install) to install it locally. If you plan to use it in the cloud, please sign up for a free account in https://rstudio.cloud . Do this sometime before class on Tuesday, Feb. 11. You do NOT need to go through the whole chapter of the Introduction to R and R Studio before class.
 
 ## Thursday
 
+### In class
+
 * Review of the Excel exam
-* Let's talk stats! There are a couple of very short readings below.
+* Let's talk maps! There are a few readings / watchings / listenings listed below.
 * A [gentle introduction to programming]({{site.rdocs}}/A02-programming) and coding (We'll go through this in class - you don't have to read it in advance.)
 * Lab (if there's time): Write your own algorithm.
 
-### Stats reading
+### Reading
 
-* [Statistician proves that statistics are boring](https://towardsdatascience.com/statistician-proves-that-statistics-are-boring-4fc22c95031b) . Notice the most important part here: that statistics assumes you don't have knowledge of every tree. Is that true in public records work?
+* "[Early Voting changes hit NC rural voters hardest...](https://www.wral.com/early-voting-changes-hit-nc-rural-voters-hardest-but-will-it-matter-in-2018-/17959224/)", Tyler Dukes, WRAL.com . You can choose either the digital or broadcast version (linked about halfway down.)
+* "[One Trump Tax Cut was Meant to Help the Poor. A billionaire ended up winning big,](https://www.propublica.org/article/trump-inc-podcast-one-trump-tax-cut-meant-to-help-the-poor-a-billionaire-ended-up-winning-big)" Jeff Ernsthausen and  Justin Elliott, ProPublica, June 19, 2019. You can choose the digital or podcast version (linked about halway down.)
+* Explore some of the Pulitzer Prize-winning project, "[The Wall](https://www.usatoday.com/border-wall/)," from the Arizona Republic, 2018.  You obviously don't have to review the whole thing -- pick a piece that intrigues you. (One weird thing about this project - it's actually not easy to find the way it was originally presented - it was repackaged after the Pulitzer.)
+* And here's something REALLY old: "[Little action on lead warnings](https://www.dropbox.com/s/0ju5zx8upomtn0q/leadmaps.pdf?dl=0)", by Monte Reel and Sarah Cohen, Washington Post, March 14, 2004.  (Starts in the middle of Page One.)
 
-
-* [Four years in a row, police nationwide fatally shoot nearly 1,000 people - The Washington Post](https://www.washingtonpost.com/investigations/four-years-in-a-row-police-nationwide-fatally-shoot-nearly-1000-people/2019/02/07/0cb3b098-020f-11e9-9122-82e98f91ee6f_story.html). How well did they describe uncertainty?
-
-* Market manipulation? [“There Is Definite Hanky-Panky Going On”: The Fantastically Profitable Mystery of the Trump Chaos Trades"](https://www.vanityfair.com/news/2019/10/the-mystery-of-the-trump-chaos-trades), Vanity Fair. What else might he need to prove something more than coincidence?
+Optional: "[America's Ring of Fire](https://www.revealnews.org/episodes/americas-ring-of-fire/)", Reveal news podcast, originally aired Oct. 8, 2016.
