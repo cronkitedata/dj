@@ -12,19 +12,14 @@ You'll need to either install R and R Studio on your computer, or sign up for a 
 
 ## In class
 
-### Tuesday
-
 * An introduction to R - we'll go through getting used to the screen and all of the elements of it together.
 * An introduction to R projects and R Markdown as a way to hold all of your work on a project, negating much of the need for a detailed data diary.
 * Lab: Create your own R Markdown document
 
-### Thursday
-* Story workshop on disparities in traffic stops
-* An introduction to converting your Excel work to R.
 
 ## Due this week
 
-* Write out an algorithm for something you do all the time. This isn't programmed in a language -- just write down all the steps. Include a few decision points, such as the "check ingredients" in our example from last week. It can be as simple as making coffee or brushing your teeth.  (Due Sunday, Feb. 9)
+* [Write out an algorithm]({{"assignments/04-algorithm" | relative_url }}) for something you do all the time. This isn't programmed in a language -- just write down all the steps. Include a few decision points, such as the "check ingredients" in our example from last week. It can be as simple as making coffee or brushing your teeth.  (Due Sunday, Feb. 9)
 * Take the swirl() lesson under [Exercises]({{site.rdocs}}/011-r-install.html#resources-and-exercises) in the reading). You don't have to turn anything in.
 
 ## Preparation
@@ -41,7 +36,3 @@ You'll need to either install R and R Studio on your computer, or sign up for a 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Just wanted to say a few words about how data journalism can help reporters flesh out a story.</p>&mdash; Todd Wallack (@TWallack) <a href="https://twitter.com/TWallack/status/931175887269134336?ref_src=twsrc%5Etfw">November 16, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 * Five-Thirty-Eight: [Russian troll analysis on Twitter](https://fivethirtyeight.com/features/why-were-sharing-3-million-russian-troll-tweets/?ex_cid=538twitter). Note the references to the original data, how it was collected, and the name of the project at Clemson. Even if you don't care about Russian trolls, it's worth noting these kinds of resources for the future -- these are the kinds of hints that will lead you to data for your own work.
-
-* Two takes on racial disparities in traffic stops:
-    * [Analysis: LAPD searches blacks and Latinos more.](https://www.latimes.com/local/lanow/la-me-lapd-searches-20190605-story.html), Ben Poston and Cindy Chan, Los Angeles Times, October 2019
-    * [The disproportionate risk of driving while black](https://www.nytimes.com/2015/10/25/us/racial-disparity-traffic-stops-driving-black.html), Sharon LaFraniere and Andrew W. Lehren. Sharon has a really graceful way of writing about data.

@@ -53,8 +53,8 @@ Week<br>num | Date| Topics | Deadlines
 03 | [Jan. 28]({{ "weeks/week031" | relative_url }}) | Understanding tidy data; Reading the data story |
   | Jan. 30 | Catch-up day and Excel review | Bring questions to class
 04 | [Feb. 4 & 6]({{ "weeks/week041" | relative_url }}) |  **Excel exam**  <br> Intro to programming | Su. 2/9: 1st self-assessment
-05 | Feb. 11 | Intro to R and R markdown  |
-  | Feb. 13 | The tidyverse and its verbs |
+05 | [Feb. 11]({{ "weeks/week051" | relative_url }}) | Intro to R and R markdown  |
+  | [Feb. 13]({{ "weeks/week052" | relative_url }})  | The tidyverse and its verbs |
 06 | Feb. 18 | Replicating your Excel work in R: Filter and sort |
   | Feb. 20 | Replicating con't: Group by & mutate |
 07 | Feb. 25 | Joining in R |

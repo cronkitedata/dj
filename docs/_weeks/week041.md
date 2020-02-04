@@ -40,7 +40,13 @@ Your Excel exam will take up the whole period. It is open book, open Internet, o
 ## Due this week
 
 Sunday, Feb. 9: 1st self-assessment on Canvas
-If you plan to use R on your own laptop, please follow the instructions in [Introduction to R and R Studio]({{site.rdocs}}/011-r-install) to install it locally. If you plan to use it in the cloud, please sign up for a free account in https://rstudio.cloud . Do this sometime before class on Tuesday, Feb. 11. You do NOT need to go through the whole chapter of the Introduction to R and R Studio before class.
+
+Sunday, Feb. 9: [Your algorithm]({{ "assignments/04-algorithm" | relative_url }}) (we may finish this in class as a lab) . You may want to review "A [gentle introduction to programming]({{site.rdocs}}/A02-programming)" from the [R study guide]({{site.rdocs}}) 
+
+
+**If you plan to use R on your own laptop**, please follow the instructions in [Introduction to R and R Studio]({{site.rdocs}}/011-r-install) to install it locally.
+
+**If you plan to use it in the cloud**, please sign up for a free account in https://rstudio.cloud . Do this sometime before class on Tuesday, Feb. 11. You do NOT need to go through the whole chapter of the Introduction to R and R Studio before class.
 
 ## Thursday
 
