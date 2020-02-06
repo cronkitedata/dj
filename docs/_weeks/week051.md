@@ -10,6 +10,8 @@ publish: true
 
 You'll need to either install R and R Studio on your computer, or sign up for a free rstudio.cloud account to do the homework for this week. They're the same thing -- one works in the cloud, the other on your computer. See the [Introduction to R and R Studio]({{site.rdocs}}/011-r-install) for instructions on what it takes.
 
+If you are at all uncomfortable with installing software or if you want to use the lab computers, I strongly suggest you use the RStudio Cloud option. Depending on how many people choose this option, I may ask everyone to use it so I can assign projects within that framework.
+
 ## In class
 
 * An introduction to R - we'll go through getting used to the screen and all of the elements of it together.
