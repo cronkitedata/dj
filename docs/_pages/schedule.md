@@ -58,7 +58,7 @@ Week<br>num | Date| Topics | Deadlines
 06 | Feb. 18 | Replicating your Excel work in R: Filter and sort |
   | Feb. 20 | Replicating con't: Group by & mutate |
 07 | Feb. 25 | Joining in R |
-   | Feb. 27 | Introducing your project datasets; importing details |
+   | Feb. 27 | Guest speaker: Pamela Ren Larsen, Arizona Republic; Introducing your project datasets; importing details |
 08 | Mar. 3 | Basic charts in R ;  |
   | Mar. 5 | **No class** - explore your project dataset on your own | (IRE's [annual CAR conference](https://www.ire.org/events-and-training/event/4400) begins)
  | Mar. 10 | ****SPRING BREAK****  |
