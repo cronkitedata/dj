@@ -55,8 +55,7 @@ Week<br>num | Date| Topics | Deadlines
 04 | [Feb. 4 & 6]({{ "weeks/week041" | relative_url }}) |  **Excel exam**  <br> Intro to programming | Su. 2/9: 1st self-assessment
 05 | [Feb. 11]({{ "weeks/week051" | relative_url }}) | Intro to R and R markdown  |
   | [Feb. 13]({{ "weeks/week052" | relative_url }})  | The tidyverse and its verbs |
-06 | Feb. 18 | Replicating your Excel work in R: Filter and sort |
-  | Feb. 20 | Replicating con't: Group by & mutate |
+06 | [Feb. 18 & 20]({{ "weeks/week051" | relative_url }}) | Replicating your Excel work in R: Filter and sort; group |
 07 | Feb. 25 | Joining in R |
    | Feb. 27 | Guest speaker: Pamela Ren Larsen, Arizona Republic; Introducing your project datasets; importing details |
 08 | Mar. 3 | Basic charts in R ;  |
