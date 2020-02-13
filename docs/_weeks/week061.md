@@ -41,3 +41,7 @@ Try to follow along with the examples in the chapters, but you don't have to do 
 ### Reading
 
 * "[Pharmacies miss half of dangerous drug combinations](https://www.chicagotribune.com/investigations/ct-drug-interactions-pharmacy-met-20161214-story.html)", Chicago Tribune, Dec. 15, 2016, by Sam Roe and Karisa King.
+
+#### Going further
+
+R had powerful ways to work with text using `regular expressions`. To get a handle on what regular expressions can do, [go through the tutorial on our resources site]("{{site.cdocs}}/special/regex-beginning" | relative_url). It's not in R, but it will translate directly into filtering in R using the [str_detect()](https://cran.r-project.org/web/packages/stringr/vignettes/stringr.html) function.  

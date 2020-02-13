@@ -19,7 +19,7 @@ publish: true
 
 ## Due this week
 
-* Sunday, Feb. 17: Exercise at the bottom of the [R Study Guide Chapter 3: Data Frames and the Tidyverse]({{site.rdocs}}/022-data-frames).  This is the NEA data that you've seen before. Just turn in your knitted R Markdown document (the html file)
+* If you didn't do it during the reading, do the exercise at the bottom of the  [R Study Guide Chapter 3: Data Frames and the Tidyverse]({{site.rdocs}}/022-data-frames).  This is the NEA data that you've seen before.  You don't need to turn anything in. 
 
 ## Preparation
 
