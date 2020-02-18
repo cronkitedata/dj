@@ -14,7 +14,7 @@ Beginning this week, I'll start adding additional tutorials and resources at the
 
 ### Tuesday
 
-* Filtering in R: We'll take on the Murder Accountability Project's database <br>[R Data file for download](https://github.com/cronkitedata/rstudyguide/blob/master/data/murder_data.Rda) \| [Exercises](https://cronkitedata.github.io/rstudyguide/A04-murders),
+* Filtering in R: We'll take on the Murder Accountability Project's database <br>[R Data file for download](https://github.com/cronkitedata/rstudyguide/blob/master/data/murder_data.Rda?raw=true) \| [Exercises](https://cronkitedata.github.io/rstudyguide/A04-murders),
 
 Here is a quote from the Serial Killer Detective about the Green River Killer. Let's see if we can build a query that might isolate at least some of those cases:
 
