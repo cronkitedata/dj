@@ -9,7 +9,7 @@ This project makes up 15 percent of your final grade. It involves analyzing a da
 
 Key deadlines:
 
-* March 1: A one-paragraph proposal with your dataset choice and a very brief description of what you hope to do with it.
+* March 6: A one-paragraph proposal with your dataset choice and a very brief description of what you hope to do with it.
 * March 29: An optional draft of your memo, with your documentation
 * April 4: Final story memo with documentation
 
@@ -17,14 +17,22 @@ Key deadlines:
 
 I've tried having people find their own data in the past, but it's harder than it sounds to find one that's right for this project. I'm happy to add options to this list if you have ideas --  let me know by the end of January if you have a good candidate.
 
-Here's a preliminary list of datasets:
+Here's a list of datasets:
 
-* H1B Visa applications, from the US Labor Department
-* Measles vaccinations rates for all Arizona schools
-* A campaign finance dataset that I haven't settled on yet
-* Immigration status inquiries made to ICE by Arizona State troopers, from an ACLU records request.
-* Air pollution records for Maricopa County
-* A collection of tweets posted by Joe Arpao, the candidate and former Maricopa County sheriff, collected in a Workbench recipe for the past year.
+* H1B Visa applications, from the US Labor Department. (I have data through FY 2019 (about 6 months old), but their link appears dead in the Labor Department. The USCIS also has data files, which don't have quite as much information as the Labor Department's. We can see which one is better - or if joining them works best! )
+* Contributions to federal candidates and political action committees from Arizona, for the 2020 election cycle through December 2019. We can reverse this and get a dataset of contributions TO Arizona candidates if you prefer.
+* A collection of tweets posted by Joe Arpao, the candidate and former Maricopa County sheriff, collected in a Workbench recipe for the past year. If you have another user you'd like to analyze, I can show you how to get the most recent 2000 tweets easily.
+* Facebook political ads  - I'm still figuring out how to get this, which I want to do but may have to wait for NICAR for someone to help me.
+* A Spotify playlist that contains about 100-150 songs that you'd like to analyze. You need to make the playlist public and send me the link.
+* Education Department's Civil Rights dataset, including discipline, crimes and arrests in schools, for News 21.
+* For the Howard Center: Prosecution decisions made under president Obama and Trump in federal courts, excluding immigration cases. This will be good to see, for example, if prosecutions of white collar crimes has fallen, or if the government has re-started prosecutions for low level drug offenses. Note that these do not contain names or case numbers -- you'll have to reverse engineer it in PACER or another court database to find the individual case details. This is a VERY complex database, and isn't for the faint of heart, but will be very useful for stories.
+* Small Business Administration loans to Arizona businesses, including defaults.
+* All Olympics participants from 1898 in Athens to 2016 in Rio, from Kaggle.
+* The [Lahman Baseball statistics database](http://www.seanlahman.com/baseball-archive/statistics/), using the R package, "lahman", for statistics on players and teams from 1871 to 2019.
+* The [Youth Behavioral Risk survey](https://www.cdc.gov/healthyyouth/data/yrbs/index.htm) from the CDC, for those of you in the suicide project. This is a semi-annual survey of high school students which includes, among other questions, those regarding mental health, thoughts of suicide, and drug use. It's a small sample so getting state level data will be tough, but you'll get good long-term trends nationally.
+* .... or anything else we agree on after discussion.
+
+
 
 ## The memo
 
@@ -49,6 +57,6 @@ Your work will be graded based on:
 * Your story idea and the quality of your written memo.
 * The skill and imagination you showed in teasing out crucial details and facts from your data.
 * The research and reporting you did to understand the promise and pitfalls of your data as it relates to your idea.
-* Accuracy in your data analysis and your characterization of it. 
+* Accuracy in your data analysis and your characterization of it.
 * How well you took direction during the project.
 * Your methodology and documentation documents.
