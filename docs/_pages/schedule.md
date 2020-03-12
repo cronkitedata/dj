@@ -57,16 +57,17 @@ Week<br>num | Date| Topics | Deadlines
   | [Feb. 13]({{ "weeks/week052" | relative_url }})  | The tidyverse and its verbs |
 06 | [Feb. 18 & 20]({{ "weeks/week061" | relative_url }}) | Replicating your Excel work in R: Filter and sort; group |
 07 | [Feb. 25 & 27]({{ "weeks/week071" | relative_url }})| Joining in R; Guest speaker Pamela Ren Larson of the Arizona Republic |
-08 | Mar. 3 | Maybe: Basic charts in R. We might need a catch-up day  |
+08 | Mar. 3 | Catch-up day. |
   | Mar. 5 | **No class** - explore your project dataset on your own | (IRE's [annual CAR conference](https://www.ire.org/events-and-training/event/4400) begins)
  | Mar. 10 | ****SPRING BREAK****  |
-09 | Mar. 17 | R Review |
-  | Mar. 19 | **R exam** | Su 3/22: 2nd self-assessment
-10 | Mar. 24-26 | Visualization as a reporting tool | Su 3/29: Optional [Story memo draft]({{ "story-memo" | relative_url }}) draft
-11 | Mar. 31-Apr. 2 | Open source investigations | Su 4/5: [Story memo]({{"story-memo" | relative_url }})
-12 | Apr. 7-9  |  Building your own dataset; the data walk |  Su Apr 12: Data walk
-13 | Apr. 14-16 | Scraping & API's ; dealing with dirty data |
-14 | Apr. 21-23 | Students' choice | Su Apr 26?: Data hunt story idea
+09 | Mar. 17 | Exploring your dataset for your project (workshop)  |
+  | Mar. 19 |  Review for R exam |
+10 | Mar. 24 | **R Exam** |
+   | 26 | Visualization as a reporting tool | Fri. Mar 27: Second self-assessment
+11 | Mar. 31-Apr. 2 | Open source investigations (part 1) | Su 4/5: Optional [Story memo draft]({{ "story-memo" | relative_url }}) draft
+12 | Apr. 7-9  | Scraping & API's ; dealing with dirty data |  Su Apr 12: [Story memo]({{"story-memo" | relative_url }})
+13 | Apr. 14-16 | Building your own dataset; the data walk |  Fri. Apr 17: Data walk |
+14 | Apr. 21-23 | Students' choice | Su Apr 26: Data hunt
 15 | Apr. 28-30 | Wrap up & where to go from here  | Thu: Final self-assessment
 
 **The explainer assignment is in lieu of a final exam and is due when your final exam would end. The specific date and time will be on the Canvas assignment. However, I strongly suggest you knock this out earlier in the semester while your idea is fresh.**

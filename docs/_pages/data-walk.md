@@ -4,7 +4,7 @@ permalink: /data-walk
 toc: true
 ---
 
-Preliminary due date: Sunday, April 12. You'll do a lot of the work for this in teams during class time.
+Due date: Friday, April 27. You'll do a lot of the work for this in teams during class time. **NOTE**: By moving to remote classes, we may have to adjust this a little for those of you who are physically not in Phoenix. I think the rest of it should still work. The Friday due data reflects the amount of work I expect -- this should *not* spill over into the weekend. 
 
 This mini-project is inspired by the website, [Data Walking: A research project exploring data gathering and data visualization](http://datawalking.com) by David Hunter.
 

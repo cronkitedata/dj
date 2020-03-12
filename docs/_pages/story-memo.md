@@ -10,8 +10,8 @@ This project makes up 15 percent of your final grade. It involves analyzing a da
 Key deadlines:
 
 * March 6: A one-paragraph proposal with your dataset choice and a very brief description of what you hope to do with it.
-* March 29: An optional draft of your memo, with your documentation
-* April 4: Final story memo with documentation
+* April 5: An optional draft of your memo, with your documentation
+* April 12: Final story memo with documentation
 
 ## Choosing a dataset
 
