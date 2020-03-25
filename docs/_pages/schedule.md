@@ -62,11 +62,11 @@ Week<br>num | Date| Topics | Deadlines
  | Mar. 10 | ****SPRING BREAK****  |
 09 | Mar. 17 | Exploring your dataset for your project (workshop)  |
   | Mar. 19 |  Review for R exam |
-10 | Mar. 24 | **R Exam** |
-   | 26 | Visualization as a reporting tool | Fri. Mar 27: Second self-assessment
-11 | Mar. 31-Apr. 2 | Open source investigations (part 1) | Su 4/5: Optional [Story memo draft]({{ "story-memo" | relative_url }}) draft
-12 | Apr. 7-9  | Scraping & API's ; dealing with dirty data |  Su Apr 12: [Story memo]({{"story-memo" | relative_url }})
-13 | Apr. 14-16 | Building your own dataset; the data walk |  Fri. Apr 17: Data walk |
+10 | [Mar. 24]({{"weeks/weeek102" | relative_url }})| **R Exam** |
+   | 26 | Visualization as a reporting tool; Guest speake: Brandon Quester, editor of AZCIR | Fri. Mar 27: Second self-assessment
+11 | Mar. 31-Apr. 2 | Scraping & API's ; dealing with dirty data | Su 4/5: Optional [Story memo draft]({{ "story-memo" | relative_url }}) draft
+12 | Apr. 7-9  | Open source investigations (part 1)  |  Su Apr 12: [Story memo]({{"story-memo" | relative_url }})
+13 | Apr. 14-16 | Building your own dataset; |  Fri. Apr 17: Data walk |
 14 | Apr. 21-23 | Students' choice | Su Apr 26: Data hunt
 15 | Apr. 28-30 | Wrap up & where to go from here  | Thu: Final self-assessment
 
