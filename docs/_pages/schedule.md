@@ -57,13 +57,10 @@ Week<br>num | Date| Topics | Deadlines
   | [Feb. 13]({{ "weeks/week052" | relative_url }})  | The tidyverse and its verbs |
 06 | [Feb. 18 & 20]({{ "weeks/week061" | relative_url }}) | Replicating your Excel work in R: Filter and sort; group |
 07 | [Feb. 25 & 27]({{ "weeks/week071" | relative_url }})| Joining in R; Guest speaker Pamela Ren Larson of the Arizona Republic |
-08 | Mar. 3 | Catch-up day. |
-  | Mar. 5 | **No class** - explore your project dataset on your own | (IRE's [annual CAR conference](https://www.ire.org/events-and-training/event/4400) begins)
+08 | Mar. 3-5 | Catch-up day. | No class on Mar. 5
  | Mar. 10 | ****SPRING BREAK****  |
-09 | Mar. 17 | Exploring your dataset for your project (workshop)  |
-  | Mar. 19 |  Review for R exam |
-10 | [Mar. 24]({{"weeks/week102" | relative_url }})| **R Exam** |
-   | 26 | Visualization as a reporting tool; Guest speake: Brandon Quester, editor of AZCIR | Fri. Mar 27: Second self-assessment
+09 | Mar. 17-19 | Project workshop and R exam review | 
+10 | [Mar. 24-26]({{"weeks/week102" | relative_url }})| R exam; Visualization as a reporting tool |Fri. Mar 27: Second self-assessment
 11 | Mar. 31-Apr. 2 | Scraping & API's ; dealing with dirty data | Su 4/5: Optional [Story memo draft]({{ "story-memo" | relative_url }}) draft
 12 | Apr. 7-9  | Open source investigations (part 1)  |  Su Apr 12: [Story memo]({{"story-memo" | relative_url }})
 13 | Apr. 14-16 | Building your own dataset; |  Fri. Apr 17: Data walk |
