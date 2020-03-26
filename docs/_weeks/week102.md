@@ -25,7 +25,7 @@ publish: true
 
 This will be a little different by section, since the MAIJ students have already done some work on visualization in their interdisciplinary courses. We'll see how the time goes -- we may not have time for much. Consider asking for more viz for the "students' choice" week "if you're interested.
 
-* Visualization as a reporting tool, [presentation]({{site.cdocs}}/assets/docs/reportingviz_2018.pdf) from Sarah (It's about 2 years old, so some of the tools have changed.)
+* Visualization as a reporting tool, [presentation]({{site.cdocs}}/assets/docs/viz/reportingviz_2018.pdf) from Sarah (It's about 2 years old, so some of the tools have changed.)
 
 * An [example of one visualization from start to finish]({{site.rdocs}}/041-plotly) using R and the library *plotly* for  interactivity. (R Markdown file is [here](https://github.com/cronkitedata/cronkite-docs/blob/master/rmd-files/04-ggplot-intro.Rmd) -- you can press the "raw" button then copy and paste it or save it into your own doc.)
 
