@@ -3,7 +3,7 @@ title: "10 - Visualization as a reporting tool"
 layout: single
 excerpt: "Data visualization can help you find the story - don't think of it as just something for publication."
 collection: weeks
-class_date: 2020-04-23
+class_date: 2020-03-23
 publish: true
 ---
 {{page.class_date | date: "%A, %B %-d"}}
