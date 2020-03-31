@@ -64,7 +64,7 @@ Week<br>num | Date| Topics | Deadlines
 11 | [Mar. 31-Apr. 2]({{"weeks/week111" | relative_url }}) | Scraping & API's ; data from pdf's|
 12 | Apr. 7-9  | Dealing with dirty data (OpenRefine); Intro to open source and investigative research |  Su Apr 12: Optional [Story memo]({{"story-memo" | relative_url }}) first draft
 13 | Apr. 14-16 | Story memo workshop; Building your own dataset (lab) |  Tentative: Sun. Apr 19: Final story memo |
-14 | Apr. 21-23 | Data hunt workshop; Students' choice #1   | ~~Su Apr 26: Data hunt~~
+14 | Apr. 21-23 | Data hunt workshop; Students' choice #1   | Su Apr 26: Data hunt
 15 | Apr. 28-30 | Students' choice #2, wrap-up & where to go from here  | Thu: Final self-assessment
 
 **The explainer assignment is in lieu of a final exam and is due when your final exam would end. The specific date and time will be on the Canvas assignment. However, I strongly suggest you knock this out earlier in the semester while your idea is fresh.**
