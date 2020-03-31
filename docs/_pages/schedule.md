@@ -61,7 +61,7 @@ Week<br>num | Date| Topics | Deadlines
  | Mar. 10 | ****SPRING BREAK****  |
 09 | Mar. 17-19 | Project workshop and R exam review |
 10 | [Mar. 24-26]({{"weeks/week102" | relative_url }})| R exam; Visualization as a reporting tool |Fri. Mar 27: Second self-assessment
-11 | Mar. 31-Apr. 2 | Scraping & API's ; data from pdf's|
+11 | [Mar. 31-Apr. 2]({{"weeks/week111" | relative_url }}) | Scraping & API's ; data from pdf's|
 12 | Apr. 7-9  | Dealing with dirty data (OpenRefine); Intro to open source and investigative research |  Su Apr 12: Optional [Story memo]({{"story-memo" | relative_url }}) first draft
 13 | Apr. 14-16 | Story memo workshop; Building your own dataset (lab) |  Tentative: Sun. Apr 19: Final story memo |
 14 | Apr. 21-23 | Data hunt workshop; Students' choice #1   | ~~Su Apr 26: Data hunt~~

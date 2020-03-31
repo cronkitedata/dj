@@ -24,9 +24,9 @@ Both Tuesday and Thursday will be devoted to scraping data from the web and from
    * Demo of  [Tabula](https://tabula.technology/)
    * Demo of [Able2Extract](https://www.investintech.com/prod_a2e.htm#convert) ($150 for a lifetime license, $35 for a month)
    * Demo of the full Adobe Acrobat product, which comes with your Creative Cloud package, but is pretty expensive if you get it when you're done with school.
-   * Example data: A printout from Phoenix PD with COVID-19 public gathering complaints
+   * Example data: [A printout from Phoenix PD](https://github.com/cronkitedata/cronkite-docs/blob/master/docs/assets/docs/710G%20Calls.pdf) with COVID-19 public gathering complaints
 
-* Introduction to scraping data from the web
+* Introduction to scraping data from the web. We'll work largely off of the Cronkite data reporting site's [scraping page](https://cronkitedata.github.io/cronkite-docs/special/scrape-part1.html)
   * Understanding GET requests
   * Looking under the hood
   * Tricking websites into giving you more :
